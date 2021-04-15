@@ -19,12 +19,13 @@ const VideoComponent = ({ content, index }) => {
     }
     if (content.main[index].image) {
       return (
-        <img
-          alt={content.main[index].image.desc}
-          src={content.main[index].image.source}
-          width="100%"
-          className="d-inline-block align-top"
-        />
+        <div className="main-image-container">
+          <img
+            className="main-image"
+            alt={content.main[index].image.desc}
+            src={content.main[index].image.source}
+          />
+        </div>
       );
     }
   }
