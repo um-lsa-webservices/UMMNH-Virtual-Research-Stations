@@ -5,7 +5,7 @@
 export default {
   // Page Content
   page: {
-    title: "Dan Rabosky: The Adaptable Reptiles"
+    title: "Monica Dus: Sugar Central"
   },
 
   // Main Content
@@ -28,37 +28,50 @@ export default {
   // },
   main: [
     {
-      title: "Meet Dan Rabosky",
-      text: `Dan Rabosky is Associate Professor of Ecology and Evolutionary Biology at the University of Michigan. He is also Associate Curator of Reptiles and Amphibians at the Museum of Zoology.\nSupported by the National Science Foundation.`,
-      video: "https://youtu.be/g6S5zUWbx_4"
+      title: "Meet Monica Dus",
+      text: `Monica Dus, PhD, is Assistant Professor of Molecular, Cellular, and Developmental Biology at the University of Michigan.`,
+      video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
     },
     {
-      title: "How do new species form?",
-      text: `Rabosky began his work in the Australian desert, researching the biodiversity of lizards. Since arriving at the University of Michigan, his research has expanded to the Peruvian Amazon. Much of his work focuses on patterns of reptile and amphibian biodiversity.\nRabosky's research asks many questions: How do new species form? What determines the number of species we see on Earth? Why do we have species at all?`,
+      title: "Studying fruit flies in the lab",
+      text: `Dus’s lab studies the model organism *Drosophila melanogaster*, the common fruit flies in your kitchen.
+      • Their generation time is only 10–12 days.
+      • They are inexpensive and don’t require a lot of space.
+      • They are easier to mutate since they only have four pairs of chromosomes.`,
       image: {
-        source: "/images/Rabosky_02_Research.png",
-        desc: "Image of charts that show evolutionary diversity."
+        source: "/images/Dus_01b_FlyImg.png",
+        desc: "Two images; one shows a closeup of the drosophila melanogaster fruit fly, the second showing a group of them."
       }
     },
     {
-      title: "Collecting samples in the Peruvian Amazon",
-      text: `Much of Rabosky's recent work focuses on the biodiversity of snakes and frogs in the Peruvian Amazon.`,
-      video: "https://youtu.be/dU1ZT5cpGBg"
+      title: "A lifelong passion",
+      text: `Dus’s passion for genetics and fruit flies began in high school.`,
+      video: "https://www.youtube.com/watch?v=7b3UZel5M4g"
     },
     {
-      title: "Find the animal",
-      text: `Try your hand at active searching. If you were out in the field, could you find the animal in these pictures?`,
-      video: "https://youtu.be/qmTalZIkjwU"
+      title: "The fruit fly proboscis",
+      text: `Fruit flies do not have teeth or a tongue. Instead, their taste sensors are on the outside of their trunk-like feeding extension, called a *proboscis.* Scientists can measure the extension response of the proboscis for research.`,
+      video: "https://www.youtube.com/watch?v=iWUqYeZf8wY"
     },
     {
-      title: "There's no substitute for specimen collection",
-      text: `Rabosky and his team work together with local partners and scientists to collect data.`,
-      video: "https://youtu.be/-rQxK5was9Y"
+      title: "Different types of lab experiments",
+      text: `In the lab, Dus’s team of researchers collect data about feeding patterns and behaviors of fruit flies. They try to connect behaviors to changes in the brain.`,
+      video: "https://www.youtube.com/watch?v=1zRMjV_gRjk"
     },
     {
-      title: "Mission for the future",
-      text: `It is more urgent than ever to create a record of all species on Earth. The Museum of Zoology at the University of Michigan is one of the world's largest biodiversity reference libraries. It houses over 15 million specimens, including some that date back to the 1830's.`,
-      video: "https://youtu.be/4FOJOHLelG8"
+      title: "Effects of a high sugar diet",
+      text: `Dus’s research show that sugar changes your taste.`,
+      video: "https://www.youtube.com/watch?v=GffSMmmrQy8"
+    },
+    {
+      title: "Sugar, sugar everywhere",
+      text: `Balancing our love of sugar with a healthy diet.`,
+      video: "https://www.youtube.com/watch?v=ZDKDbJTVXWg"
+    },
+    {
+      title: "Everyone is a scientist",
+      text: `If you make observations in your everyday life, you *are* a scientist!`,
+      video: "https://www.youtube.com/watch?v=-UJgoU8ZlZM"
     },
   ],
   // Secondary Content
@@ -83,48 +96,21 @@ export default {
   // }
   secondary: [
     {
-      title: "Why so many species?",
-      text: `From Australia's dry desert heat to the Amazon's muggy rainforests, Earth's tropical regions burst with biodiversity. A patch of Michigan forest might be home for 20 kinds of reptiles and amphibians. A similar patch in the Amazon could hold more than 200!\nScientists are striving to find out why some parts of the world have more species than others. It helps them understand better how the natural world works and sustains itself.`,
+      title: "Bitten by our own sweet tooth",
+      text: `Sugar, a high-energy food, is rare in nature. Our bodies evolved to desire it, and to feel as though we can’t get enough.\nBut now, sugar is everywhere. People over-consume, resulting in more obesity and related illnesses.\nPeople think obesity comes from enjoying sugar too much, but the opposite is actually true—the more sugar you eat, the less you can taste and enjoy the sweetness. People seek out even more sugar to get the same pleasure.`,
       image: {
-        source: "/images/PanelImage.png",
-        desc: "Image showing a variety of reptiles.",
-        caption:
-          "Warm climates swarm with reptiles of every shape and color. Scientists don't know why the tropics have more biodiversity than temperate zones like that of Michigan."
+        source: "/images/candy.jpg",
+        desc: "Image showing a a collection of colorful candy.",
       }
     },
     {
-      title: "The puzzling patterns of biodiversity",
-      text: `U-M zoologist Daniel Robosky and his team members explore rainforests, deserts, and other environments to collect specimens, genetic samples, and ecological data. Back at U-M, they use DNA sequencing and mathematical modeling to understand the factors that generate and maitain biodiversity.\n
-      Scientists theorized that species might emerge at faster rates in warmer climates where temperature is favorable for the production of new species. But Rabosky's lab found that new species do not form more quickly in warmer climates. In fact, in some cases, they evolve fastest in places with the lowest diversity.`
-    }
-  ],
-  // Links to more stuff
-  links: [
-    {
-      image: "/images/Placeholder1.png",
-      desc: "placeholder image 1",
-      buttonText: "Museum@Home",
-      destination: "https://lsa.umich.edu/ummnh/visitors/museumathome.html"
-    },
-    {
-      image: "/images/Placeholder1.png",
-      desc: "placeholder image 2",
-      buttonText: "University of Michigan",
-      destination: "https://umich.edu"
-    },
-    {
-      image: "/images/Placeholder1.png",
-      desc: "placeholder image 3",
-      buttonText: "NASA",
-      destination: "http://nasa.gov"
+      title: "What we learn from the appetites of fruit flies",
+      text: `U–M researcher Monica Dus studies how flies react to sugary diets. She has found that flies offered sweeter food will eat more. They also eat more if they’re in a group, and if they see other flies eating a particular food, they will eat more of the same thing.\n
+      Flies get tipsy from the alcohol in rotting fruit, which also prompts them to eat more. And like humans, flies that overeat and become obese, die from the equivalent of heart attacks, kidney disease, and cancer. All of these insights can contribute to strategies designed to improve the health and eating habits of people.`
     }
   ],
   // Additional credit if needed
   credits: [
-    {
-      image: "/images/nsfLogo.png",
-      desc: "National Science Foundation Logo",
-      link: "https://www.nsf.gov/"
-    }
+
   ]
 };
