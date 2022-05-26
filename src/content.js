@@ -5,7 +5,7 @@
 export default {
   // Page Content
   page: {
-    title: "Monica Dus: Sugar Central"
+    title: "U-M Biological Station: Ecology and Landscape"
   },
 
   // Main Content
