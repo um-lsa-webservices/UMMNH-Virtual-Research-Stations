@@ -5,7 +5,7 @@
 export default {
   // Page Content
   page: {
-    title: "Monica Dus: Sugar Central"
+    title: "Jesse Capecelatro: The Physics of Flow"
   },
 
   // Main Content
