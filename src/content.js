@@ -5,7 +5,7 @@
 export default {
   // Page Content
   page: {
-    title: "Monica Dus: Sugar Central"
+    title: "Liuyan Zhao: Lasers and Magnetism"
   },
 
   // Main Content
