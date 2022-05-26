@@ -28,51 +28,32 @@ export default {
   // },
   main: [
     {
-      title: "Meet Monica Dus",
-      text: `Monica Dus, PhD, is Assistant Professor of Molecular, Cellular, and Developmental Biology at the University of Michigan.`,
+      title: "Meet Jesse Capecelatro",
+      text: `Jesse Capecelatro, PhD, is Assistant Professor of Mechanical Engineering and Aerospace Engineering at University of Michigan.`,
       video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
     },
     {
-      title: "Studying fruit flies in the lab",
-      text: `Dus’s lab studies the model organism *Drosophila melanogaster*, the common fruit flies in your kitchen.
-      • Their generation time is only 10–12 days.
-      • They are inexpensive and don’t require a lot of space.
-      • They are easier to mutate since they only have four pairs of chromosomes.`,
-      image: {
-        source: "/images/Dus_01b_FlyImg.png",
-        desc: "Two images; one shows a closeup of the drosophila melanogaster fruit fly, the second showing a group of them."
-      }
+      title: "Supercomputers",
+      text: `Computational fluid dynamics would not be possible without supercomputers. Capecelatro’s research group depends on the Great Lakes high-performance computing cluster, provided by the Advanced Research Computing (ARC), a division of Information and Technology Services at University of Michigan.`,
+      video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
     },
     {
-      title: "A lifelong passion",
-      text: `Dus’s passion for genetics and fruit flies began in high school.`,
+      title: "Fluidized bed reactor simulation",
+      text: `One area of Capecelatro’s work is in the physics of turbulent multiphase flows inside fluidized bed reactors. These flow simulations at the particle scale allow innovations in renewable energy technologies to go from lab to industrial use.`,
       video: "https://www.youtube.com/watch?v=7b3UZel5M4g"
     },
     {
-      title: "The fruit fly proboscis",
-      text: `Fruit flies do not have teeth or a tongue. Instead, their taste sensors are on the outside of their trunk-like feeding extension, called a *proboscis.* Scientists can measure the extension response of the proboscis for research.`,
+      title: "Fluid dynamics of a cough",
+      text: `Understanding the flow of tiny particles and aerosols of a cough is key to mitigating the spread of COVID-19. `,
       video: "https://www.youtube.com/watch?v=iWUqYeZf8wY"
     },
     {
-      title: "Different types of lab experiments",
-      text: `In the lab, Dus’s team of researchers collect data about feeding patterns and behaviors of fruit flies. They try to connect behaviors to changes in the brain.`,
+      title: "Plume Surface Interaction",
+      text: `Since 2016, Capecelatro has been working with NASA to develop predictive simulation capabilities of plume surface interactions. These multiphase flow simulations will help design spacecraft that may one day be able to take off from another planet, allowing for return missions.
+
+      It’s one step forward towards being able to have reliable predictive simulation on planets such as Mars.`,
       video: "https://www.youtube.com/watch?v=1zRMjV_gRjk"
-    },
-    {
-      title: "Effects of a high sugar diet",
-      text: `Dus’s research show that sugar changes your taste.`,
-      video: "https://www.youtube.com/watch?v=GffSMmmrQy8"
-    },
-    {
-      title: "Sugar, sugar everywhere",
-      text: `Balancing our love of sugar with a healthy diet.`,
-      video: "https://www.youtube.com/watch?v=ZDKDbJTVXWg"
-    },
-    {
-      title: "Everyone is a scientist",
-      text: `If you make observations in your everyday life, you *are* a scientist!`,
-      video: "https://www.youtube.com/watch?v=-UJgoU8ZlZM"
-    },
+    }
   ],
   // Secondary Content
   // example:
@@ -96,21 +77,30 @@ export default {
   // }
   secondary: [
     {
-      title: "Bitten by our own sweet tooth",
-      text: `Sugar, a high-energy food, is rare in nature. Our bodies evolved to desire it, and to feel as though we can’t get enough.\nBut now, sugar is everywhere. People over-consume, resulting in more obesity and related illnesses.\nPeople think obesity comes from enjoying sugar too much, but the opposite is actually true—the more sugar you eat, the less you can taste and enjoy the sweetness. People seek out even more sugar to get the same pleasure.`,
+      title: "Fluids are all around us",
+      text: `99% of the observable Universe exists in a *fluid state*—liquids and gases. *Computational fluid dynamics* is the branch of fluid mechanics that simulates fluid motion using mathematical models. With the help of supercomputers, scientists solve complex equations that describe fluid motion and the forces they exert. Fluid dynamics is used in weather prediction, combustion engine designs, renewable energy innovations, and planning for better spacecraft landings on another planet.`,
       image: {
         source: "/images/candy.jpg",
-        desc: "Image showing a a collection of colorful candy.",
+        desc: "U-M researchers use the Great Lakes cluster to calculate complex computations that would otherwise take a very long time to solve.",
       }
     },
     {
-      title: "What we learn from the appetites of fruit flies",
-      text: `U–M researcher Monica Dus studies how flies react to sugary diets. She has found that flies offered sweeter food will eat more. They also eat more if they’re in a group, and if they see other flies eating a particular food, they will eat more of the same thing.\n
-      Flies get tipsy from the alcohol in rotting fruit, which also prompts them to eat more. And like humans, flies that overeat and become obese, die from the equivalent of heart attacks, kidney disease, and cancer. All of these insights can contribute to strategies designed to improve the health and eating habits of people.`
+      title: "Visual simulations",
+      text: `Fluids can transport contaminants and disease. At the onset of the COVID-19 pandemic, researchers used large-scale fluid dynamics simulations to model how many aerosol particles a sick passenger expels and how they travel through the interior of a U-M blue bus. The lab started with a set of physics-based equations of aerosol dispersion then wrote the computer code, using the resulting supercomputer models to overhaul bus routes and reduce possible exposure to the virus.`,
+      image: {
+        source: "/images/candy.jpg",
+        desc: `(a) A high-resolution simulation of a realistic cough showing the turbulent flow features shortly after the cough occurred. Droplets and aerosols are shown as blue dots.
+        (b) Model showing the concentration of aerosols in different parts of a Michigan blue bus.`
+      }
     }
   ],
   // Additional credit if needed
   credits: [
-
+  //  {
+  //    text: "Courtesy of U-M ITS Advanced Research Computing."
+  //  },
+  //  {
+  //    text: "Courtesy of Capecelatro Research Group and Zhihang Zhang."
+  //  }
   ]
 };
