@@ -28,51 +28,57 @@ export default {
   // },
   main: [
     {
-      title: "Meet Monica Dus",
-      text: `Monica Dus, PhD, is Assistant Professor of Molecular, Cellular, and Developmental Biology at the University of Michigan.`,
-      video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
+      title: "Meet Valeriy Ivanov",
+      text: `Valeriy Ivanov, PhD, is Associate Professor in the Department of Civil and Environmental Engineering at University of Michigan.
+      Brazil field footage courtesy of:
+      Joseph Xu, University of Michigan Engineering`,
+      video: "https://youtu.be/n-S9IBB8r7E"
     },
     {
-      title: "Studying fruit flies in the lab",
-      text: `Dus’s lab studies the model organism *Drosophila melanogaster*, the common fruit flies in your kitchen.
-      • Their generation time is only 10–12 days.
-      • They are inexpensive and don’t require a lot of space.
-      • They are easier to mutate since they only have four pairs of chromosomes.`,
+      title: "Field site K67 in Brazil",
+      text: `K67 (named by locals for its proximity to kilometer 67 on highway BR-163) is an Amazon rainforest field site located in the Tapajós National Forest in Brazil.
+      The site provides equipment such as the 200’ tall AmeriFlux tower, which focuses measurements on carbon dioxide, as well as below ground sensors for soil water content.`,
       image: {
-        source: "/images/Dus_01b_FlyImg.png",
-        desc: "Two images; one shows a closeup of the drosophila melanogaster fruit fly, the second showing a group of them."
+        source: "/images/Ivanov_K67_site_02a.png",
+        desc: "AmeriFlux tower at K67 is 200 feet tall, measuring date above the rainforest canopy."
       }
     },
     {
-      title: "A lifelong passion",
-      text: `Dus’s passion for genetics and fruit flies began in high school.`,
-      video: "https://www.youtube.com/watch?v=7b3UZel5M4g"
+      title: "Sensors, meters and data",
+      text: ` Ivanov installs and monitors sap flow sensors and stem psychrometers to measure water flow within the tree. 
+      Measurements such as canopy structure or photosynthesis are taken by colleagues who specialize in plant physiology.  
+      The collected data from K67 allows for an integrated view of how trees function in the rainforest, and allows Ivanov to create better predictive models.`,
+      image: {
+        source: "/images/Ivanov_K67_site_02b.png",
+        desc: "Six images of stem psychrometers being installed on trees"
+      }
     },
     {
-      title: "The fruit fly proboscis",
-      text: `Fruit flies do not have teeth or a tongue. Instead, their taste sensors are on the outside of their trunk-like feeding extension, called a *proboscis.* Scientists can measure the extension response of the proboscis for research.`,
-      video: "https://www.youtube.com/watch?v=iWUqYeZf8wY"
+      title: "Making a bet",
+      text: `Tyeen Taylor works closely with Ivanov at field site K67 and is a postdoctoral researcher at the University of Michigan, specializing in plant interactions with the atmosphere.
+      Diverse species of trees have different survival strategies. These different “bets” help the Amazon rainforest survive and thrive.
+      K67 field footage and specimen photos courtesy of Tyeen Taylor.
+      Additional field footage courtesy of Joseph Xu, University of Michigan Engineering.`,
+      video: "https://youtu.be/vNSiSph3mws"
     },
     {
-      title: "Different types of lab experiments",
-      text: `In the lab, Dus’s team of researchers collect data about feeding patterns and behaviors of fruit flies. They try to connect behaviors to changes in the brain.`,
-      video: "https://www.youtube.com/watch?v=1zRMjV_gRjk"
+      title: "From data to models",
+      text: `Ivanov creates predictive models that help us understand the future of the Amazon. But how do you accurately, yet efficiently, represent 16,000 species of trees in a computer model?
+      Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering.`,
+      video: "https://youtu.be/pTZke2Xe-IE"
     },
     {
-      title: "Effects of a high sugar diet",
-      text: `Dus’s research show that sugar changes your taste.`,
-      video: "https://www.youtube.com/watch?v=GffSMmmrQy8"
+      title: "Working in a rainforest",
+      text: `Field work in the Amazon comes with many trials, errors, and challenges.
+      Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.`,
+      video: "https://youtu.be/K9d9ahZdR4w"
     },
     {
-      title: "Sugar, sugar everywhere",
-      text: `Balancing our love of sugar with a healthy diet.`,
-      video: "https://www.youtube.com/watch?v=ZDKDbJTVXWg"
-    },
-    {
-      title: "Everyone is a scientist",
-      text: `If you make observations in your everyday life, you *are* a scientist!`,
-      video: "https://www.youtube.com/watch?v=-UJgoU8ZlZM"
-    },
+      title: "Conversations that lead to science",
+      text: `Back at base camp, U-M researchers and local collaborators forge friendships and discover shared curiosities that make doing science in the Amazon possible.
+      Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.`,
+      video: "https://youtu.be/-sGXKxfjMRM"
+    }
   ],
   // Secondary Content
   // example:
@@ -96,17 +102,22 @@ export default {
   // }
   secondary: [
     {
-      title: "Bitten by our own sweet tooth",
-      text: `Sugar, a high-energy food, is rare in nature. Our bodies evolved to desire it, and to feel as though we can’t get enough.\nBut now, sugar is everywhere. People over-consume, resulting in more obesity and related illnesses.\nPeople think obesity comes from enjoying sugar too much, but the opposite is actually true—the more sugar you eat, the less you can taste and enjoy the sweetness. People seek out even more sugar to get the same pleasure.`,
+      title: "What is the future of rainforests",
+      text: `The planet’s future may depend on building a deeper understanding of ecohydrology in the Amazon. *Ecohydrology* is the study of the connections between living things and water. In the coming decades the climate crisis will result in an Amazon rainforest that’s hotter and drier than at any previous point in human history. Understanding the science behind the rainforest could help researchers predict future global impacts due to climate change and seek solutions.`,
       image: {
         source: "/images/candy.jpg",
-        desc: "Image showing a a collection of colorful candy.",
+        caption: `The image shows the decline of moisture in the air, particularly across the south and southeastern Amazon during the dry season months (August through October) from 1987 to 2016. The brown areas have become drier over time while in the green areas moisture has actually increased. Courtesy of NASA`,
+        desc: `The image shows the decline of moisture in the air, particularly across the south and southeastern Amazon during the dry season months (August through October) from 1987 to 2016. The brown areas have become drier over time while in the green areas moisture has actually increased. Courtesy of NASA`
       }
     },
     {
-      title: "What we learn from the appetites of fruit flies",
-      text: `U–M researcher Monica Dus studies how flies react to sugary diets. She has found that flies offered sweeter food will eat more. They also eat more if they’re in a group, and if they see other flies eating a particular food, they will eat more of the same thing.\n
-      Flies get tipsy from the alcohol in rotting fruit, which also prompts them to eat more. And like humans, flies that overeat and become obese, die from the equivalent of heart attacks, kidney disease, and cancer. All of these insights can contribute to strategies designed to improve the health and eating habits of people.`
+      title: "Drying out the Amazon Rainforest",
+      text: `In the early 2000s a massive drought hit the Amazon basin. Researchers expected the forest canopy to shut down—but they found the opposite. While some species did pull back to conserve water, others got greener even through the driest period.
+      Biological diversity makes ecosystems resilient. Individual species react to conditions differently, and researchers are beginning to understand how these distinct behaviors affect the function of the ecosystem as a whole. By understanding the diversity of plants in the rainforest canopy, researchers can predict how the Amazon rainforest will transform in the future as the climate changes.`,
+      image: {
+        source: "/images/candy.jpg",
+        caption: `Courtesy of David Riaño Cortés`,
+        desc: `Courtesy of David Riaño Cortés`
     }
   ],
   // Additional credit if needed
