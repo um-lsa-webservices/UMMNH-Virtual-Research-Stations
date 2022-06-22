@@ -49,9 +49,7 @@ export default {
     },
     {
       title: "Plume Surface Interaction",
-      text: `Since 2016, Capecelatro has been working with NASA to develop predictive simulation capabilities of plume surface interactions. These multiphase flow simulations will help design spacecraft that may one day be able to take off from another planet, allowing for return missions.
-
-      It’s one step forward towards being able to have reliable predictive simulation on planets such as Mars.`,
+      text: `Since 2016, Capecelatro has been working with NASA to develop predictive simulation capabilities of plume surface interactions. These multiphase flow simulations will help design spacecraft that may one day be able to take off from another planet, allowing for return missions.\nIt’s one step forward towards being able to have reliable predictive simulation on planets such as Mars.`,
       video: "https://youtu.be/uJzMSw-aS9c"
     }
   ],
