@@ -29,15 +29,12 @@ export default {
   main: [
     {
       title: "Meet Valeriy Ivanov",
-      text: `Valeriy Ivanov, PhD, is Associate Professor in the Department of Civil and Environmental Engineering at University of Michigan.
-      Brazil field footage courtesy of:
-      Joseph Xu, University of Michigan Engineering`,
+      text: `Valeriy Ivanov, PhD, is Associate Professor in the Department of Civil and Environmental Engineering at University of Michigan.\n\nBrazil field footage courtesy of:\nJoseph Xu, University of Michigan Engineering.`,
       video: "https://youtu.be/n-S9IBB8r7E"
     },
     {
       title: "Field site K67 in Brazil",
-      text: `K67 (named by locals for its proximity to kilometer 67 on highway BR-163) is an Amazon rainforest field site located in the Tapajós National Forest in Brazil.
-      The site provides equipment such as the 200’ tall AmeriFlux tower, which focuses measurements on carbon dioxide, as well as below ground sensors for soil water content.`,
+      text: `K67 (named by locals for its proximity to kilometer 67 on highway BR-163) is an Amazon rainforest field site located in the Tapajós National Forest in Brazil.\nThe site provides equipment such as the 200’ tall AmeriFlux tower, which focuses measurements on carbon dioxide, as well as below ground sensors for soil water content.`,
       image: {
         source: "/images/Ivanov_K67_site_02a.png",
         desc: `AmeriFlux tower at K67 is 200 feet tall, measuring date above the rainforest canopy.`
@@ -45,9 +42,7 @@ export default {
     },
     {
       title: "Sensors, meters and data",
-      text: ` Ivanov installs and monitors sap flow sensors and stem psychrometers to measure water flow within the tree. 
-      Measurements such as canopy structure or photosynthesis are taken by colleagues who specialize in plant physiology.  
-      The collected data from K67 allows for an integrated view of how trees function in the rainforest, and allows Ivanov to create better predictive models.`,
+      text: ` Ivanov installs and monitors sap flow sensors and stem psychrometers to measure water flow within the tree.\nMeasurements such as canopy structure or photosynthesis are taken by colleagues who specialize in plant physiology.\nThe collected data from K67 allows for an integrated view of how trees function in the rainforest, and allows Ivanov to create better predictive models.`,
       image: {
         source: "/images/Ivanov_K67_site_02b.png",
         desc: `Six images of stem psychrometers being installed on trees.`
@@ -55,28 +50,22 @@ export default {
     },
     {
       title: "Making a bet",
-      text: `Tyeen Taylor works closely with Ivanov at field site K67 and is a postdoctoral researcher at the University of Michigan, specializing in plant interactions with the atmosphere.
-      Diverse species of trees have different survival strategies. These different “bets” help the Amazon rainforest survive and thrive.
-      K67 field footage and specimen photos courtesy of Tyeen Taylor.
-      Additional field footage courtesy of Joseph Xu, University of Michigan Engineering.`,
+      text: `Tyeen Taylor works closely with Ivanov at field site K67 and is a postdoctoral researcher at the University of Michigan, specializing in plant interactions with the atmosphere.\nDiverse species of trees have different survival strategies. These different “bets” help the Amazon rainforest survive and thrive.\n\nK67 field footage and specimen photos courtesy of Tyeen Taylor.\nAdditional field footage courtesy of Joseph Xu, University of Michigan Engineering.`,
       video: "https://youtu.be/vNSiSph3mws"
     },
     {
       title: "From data to models",
-      text: `Ivanov creates predictive models that help us understand the future of the Amazon. But how do you accurately, yet efficiently, represent 16,000 species of trees in a computer model?
-      Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering.`,
+      text: `Ivanov creates predictive models that help us understand the future of the Amazon. But how do you accurately, yet efficiently, represent 16,000 species of trees in a computer model?\n\nBrazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering.`,
       video: "https://youtu.be/pTZke2Xe-IE"
     },
     {
       title: "Working in a rainforest",
-      text: `Field work in the Amazon comes with many trials, errors, and challenges.
-      Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.`,
+      text: `Field work in the Amazon comes with many trials, errors, and challenges.\n\nBrazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.`,
       video: "https://youtu.be/K9d9ahZdR4w"
     },
     {
       title: "Conversations that lead to science",
-      text: `Back at base camp, U-M researchers and local collaborators forge friendships and discover shared curiosities that make doing science in the Amazon possible.
-      Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.`,
+      text: `Back at base camp, U-M researchers and local collaborators forge friendships and discover shared curiosities that make doing science in the Amazon possible.\n\nBrazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.`,
       video: "https://youtu.be/-sGXKxfjMRM"
     }
   ],
@@ -112,8 +101,7 @@ export default {
     },
     {
       title: "Drying out the Amazon Rainforest",
-      text: `In the early 2000s a massive drought hit the Amazon basin. Researchers expected the forest canopy to shut down—but they found the opposite. While some species did pull back to conserve water, others got greener even through the driest period.
-      Biological diversity makes ecosystems resilient. Individual species react to conditions differently, and researchers are beginning to understand how these distinct behaviors affect the function of the ecosystem as a whole. By understanding the diversity of plants in the rainforest canopy, researchers can predict how the Amazon rainforest will transform in the future as the climate changes.`,
+      text: `In the early 2000s a massive drought hit the Amazon basin. Researchers expected the forest canopy to shut down—but they found the opposite. While some species did pull back to conserve water, others got greener even through the driest period.\nBiological diversity makes ecosystems resilient. Individual species react to conditions differently, and researchers are beginning to understand how these distinct behaviors affect the function of the ecosystem as a whole. By understanding the diversity of plants in the rainforest canopy, researchers can predict how the Amazon rainforest will transform in the future as the climate changes.`,
       image: {
         source: "/images/candy.jpg",
         caption: `Courtesy of David Riaño Cortés`,
