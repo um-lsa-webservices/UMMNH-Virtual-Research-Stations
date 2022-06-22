@@ -80,6 +80,7 @@ export default {
       image: {
         source: "/images/poster-greatlakes2.jpeg",
         desc: "U-M researchers use the Great Lakes cluster to calculate complex computations that would otherwise take a very long time to solve.",
+        caption: `U-M researchers use the Great Lakes cluster to calculate complex computations that would otherwise take a very long time to solve.\n*Courtesy of U-M ITS Advanced Research Computing.*`,
       }
     },
     {
@@ -89,6 +90,7 @@ export default {
         source: "/images/poster-micro-macro.png",
         desc: `(a) A high-resolution simulation of a realistic cough showing the turbulent flow features shortly after the cough occurred. Droplets and aerosols are shown as blue dots.
         (b) Model showing the concentration of aerosols in different parts of a Michigan blue bus.`
+        caption: `(a) A high-resolution simulation of a realistic cough showing the turbulent flow features shortly after the cough occurred. Droplets and aerosols are shown as blue dots.\n(b) Model showing the concentration of aerosols in different parts of a Michigan blue bus.\n*Courtesy of Capecelatro Research Group and Zhihang Zhang.*`,
       }
     }
   ],
