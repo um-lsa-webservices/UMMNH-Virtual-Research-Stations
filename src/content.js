@@ -40,7 +40,7 @@ export default {
       The site provides equipment such as the 200’ tall AmeriFlux tower, which focuses measurements on carbon dioxide, as well as below ground sensors for soil water content.`,
       image: {
         source: "/images/Ivanov_K67_site_02a.png",
-        desc: "AmeriFlux tower at K67 is 200 feet tall, measuring date above the rainforest canopy."
+        desc: `AmeriFlux tower at K67 is 200 feet tall, measuring date above the rainforest canopy.`
       }
     },
     {
@@ -50,7 +50,7 @@ export default {
       The collected data from K67 allows for an integrated view of how trees function in the rainforest, and allows Ivanov to create better predictive models.`,
       image: {
         source: "/images/Ivanov_K67_site_02b.png",
-        desc: "Six images of stem psychrometers being installed on trees"
+        desc: `Six images of stem psychrometers being installed on trees.`
       }
     },
     {
