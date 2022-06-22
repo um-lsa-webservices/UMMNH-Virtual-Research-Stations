@@ -30,29 +30,29 @@ export default {
     {
       title: "Meet Jesse Capecelatro",
       text: `Jesse Capecelatro, PhD, is Assistant Professor of Mechanical Engineering and Aerospace Engineering at University of Michigan.`,
-      video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
+      video: "https://youtu.be/oTjkbPoOqB0"
     },
     {
       title: "Supercomputers",
       text: `Computational fluid dynamics would not be possible without supercomputers. Capecelatro’s research group depends on the Great Lakes high-performance computing cluster, provided by the Advanced Research Computing (ARC), a division of Information and Technology Services at University of Michigan.`,
-      video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
+      video: "https://youtu.be/suJsK36KRJY"
     },
     {
       title: "Fluidized bed reactor simulation",
       text: `One area of Capecelatro’s work is in the physics of turbulent multiphase flows inside fluidized bed reactors. These flow simulations at the particle scale allow innovations in renewable energy technologies to go from lab to industrial use.`,
-      video: "https://www.youtube.com/watch?v=7b3UZel5M4g"
+      video: "https://youtu.be/VzUF_tePRX8"
     },
     {
       title: "Fluid dynamics of a cough",
       text: `Understanding the flow of tiny particles and aerosols of a cough is key to mitigating the spread of COVID-19. `,
-      video: "https://www.youtube.com/watch?v=iWUqYeZf8wY"
+      video: "https://youtu.be/vFcpWObpPhg"
     },
     {
       title: "Plume Surface Interaction",
       text: `Since 2016, Capecelatro has been working with NASA to develop predictive simulation capabilities of plume surface interactions. These multiphase flow simulations will help design spacecraft that may one day be able to take off from another planet, allowing for return missions.
 
       It’s one step forward towards being able to have reliable predictive simulation on planets such as Mars.`,
-      video: "https://www.youtube.com/watch?v=1zRMjV_gRjk"
+      video: "https://youtu.be/uJzMSw-aS9c"
     }
   ],
   // Secondary Content
