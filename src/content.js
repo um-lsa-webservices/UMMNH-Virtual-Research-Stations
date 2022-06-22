@@ -106,6 +106,7 @@ export default {
         source: "/images/candy.jpg",
         caption: `Courtesy of David Riaño Cortés.`,
         desc: `Courtesy of David Riaño Cortés.`
+      }
     }
   ],
   // Additional credit if needed
