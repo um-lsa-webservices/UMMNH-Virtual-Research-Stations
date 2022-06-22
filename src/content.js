@@ -44,7 +44,7 @@ export default {
     },
     {
       title: "Fluid dynamics of a cough",
-      text: `Understanding the flow of tiny particles and aerosols of a cough is key to mitigating the spread of COVID-19. `,
+      text: `Understanding the flow of tiny particles and aerosols of a cough is key to mitigating the spread of COVID-19.`,
       video: "https://youtu.be/vFcpWObpPhg"
     },
     {
