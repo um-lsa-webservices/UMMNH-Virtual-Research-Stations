@@ -95,11 +95,10 @@ export default {
   ],
   // Additional credit if needed
   credits: [
-  //  {
-  //    text: "Courtesy of U-M ITS Advanced Research Computing."
-  //  },
-  //  {
-  //    text: "Courtesy of Capecelatro Research Group and Zhihang Zhang."
-  //  }
+  // {
+  //   image: "/images/nsfLogo.png",
+  //   desc: "National Science Foundation Logo",
+  //   link: "https://www.nsf.gov/"
+  // }
   ]
 };
