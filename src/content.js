@@ -80,7 +80,7 @@ export default {
       title: "Fluids are all around us",
       text: `99% of the observable Universe exists in a *fluid state*—liquids and gases. *Computational fluid dynamics* is the branch of fluid mechanics that simulates fluid motion using mathematical models. With the help of supercomputers, scientists solve complex equations that describe fluid motion and the forces they exert. Fluid dynamics is used in weather prediction, combustion engine designs, renewable energy innovations, and planning for better spacecraft landings on another planet.`,
       image: {
-        source: "/images/candy.jpg",
+        source: "/images/poster-greatlakes2.jpeg",
         desc: "U-M researchers use the Great Lakes cluster to calculate complex computations that would otherwise take a very long time to solve.",
       }
     },
@@ -88,7 +88,7 @@ export default {
       title: "Visual simulations",
       text: `Fluids can transport contaminants and disease. At the onset of the COVID-19 pandemic, researchers used large-scale fluid dynamics simulations to model how many aerosol particles a sick passenger expels and how they travel through the interior of a U-M blue bus. The lab started with a set of physics-based equations of aerosol dispersion then wrote the computer code, using the resulting supercomputer models to overhaul bus routes and reduce possible exposure to the virus.`,
       image: {
-        source: "/images/candy.jpg",
+        source: "/images/poster-micro-macro.png",
         desc: `(a) A high-resolution simulation of a realistic cough showing the turbulent flow features shortly after the cough occurred. Droplets and aerosols are shown as blue dots.
         (b) Model showing the concentration of aerosols in different parts of a Michigan blue bus.`
       }
