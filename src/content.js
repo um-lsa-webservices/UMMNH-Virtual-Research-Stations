@@ -107,7 +107,7 @@ export default {
       Biological diversity makes ecosystems resilient. Individual species react to conditions differently, and researchers are beginning to understand how these distinct behaviors affect the function of the ecosystem as a whole. By understanding the diversity of plants in the rainforest canopy, researchers can predict how the Amazon rainforest will transform in the future as the climate changes.
       *Courtesy of David Riaño Cortés*`,
       image: {
-        source: "/images/david-riaño-cortés-975771.jpeg",
+        source: "/images/david-riano-cortes-975771.jpeg",
         caption: `Image of a foggy rainforest trail.`,
         desc: `Image of a foggy rainforest trail.`
       }
