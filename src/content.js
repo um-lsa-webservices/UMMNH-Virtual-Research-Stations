@@ -94,7 +94,7 @@ export default {
         source: "/images/652 Melanoplus chichimecus F #18 2006 b.JPG",
         caption: 'These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*'
         desc: "These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*",
-      }
+      },
     },
     {
       title: "Grasshopper DNA",
