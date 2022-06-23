@@ -28,50 +28,36 @@ export default {
   // },
   main: [
     {
-      title: "Meet Monica Dus",
-      text: `Monica Dus, PhD, is Assistant Professor of Molecular, Cellular, and Developmental Biology at the University of Michigan.`,
-      video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
+      title: "Meet Lacey Knowles",
+      text: `Lacey Knowles, PhD, is Robert B. Payne Collegiate Professor of Ecology and Evolutionary Biology at University of Michigan. She is also a curator at the Museum of Zoology.`,
+      video: "https://youtu.be/Rbne2Br6rQ8"
     },
     {
-      title: "Studying fruit flies in the lab",
-      text: `Dus’s lab studies the model organism *Drosophila melanogaster*, the common fruit flies in your kitchen.
-      • Their generation time is only 10–12 days.
-      • They are inexpensive and don’t require a lot of space.
-      • They are easier to mutate since they only have four pairs of chromosomes.`,
-      image: {
-        source: "/images/Dus_01b_FlyImg.png",
-        desc: "Two images; one shows a closeup of the drosophila melanogaster fruit fly, the second showing a group of them."
-      }
+      title: "Rapid Divergence",
+      text: `Knowles focuses on recent and rapid emergence of species. That means researching species that may have diverged quickly–as many as 100 new species in under 5 million years. Understanding this evolutionary timeline for different groups can give important insight into the process of speciation.`,
+      video: "https://youtu.be/AGEAJtKA_pw"
     },
     {
-      title: "A lifelong passion",
-      text: `Dus’s passion for genetics and fruit flies began in high school.`,
-      video: "https://www.youtube.com/watch?v=7b3UZel5M4g"
+      title: "Cryptic species",
+      text: `Cryptic species often stump scientists because organisms that look the same on the outside turn out to be completely different internally, or in genetic makeup.  
+      Knowles uses genomic tools to help identify these cryptic species.`,
+      video: "https://youtu.be/IECm2KtwoOw"
     },
     {
-      title: "The fruit fly proboscis",
-      text: `Fruit flies do not have teeth or a tongue. Instead, their taste sensors are on the outside of their trunk-like feeding extension, called a *proboscis.* Scientists can measure the extension response of the proboscis for research.`,
-      video: "https://www.youtube.com/watch?v=iWUqYeZf8wY"
+      title: "*Melanoplus* puzzle",
+      text: `For the past 20 years, Knowles has been researching a group of *Melanoplus* species of grasshoppers in the Rocky Mountains.`,
+      video: "https://youtu.be/9dGNWlPzDDs"
     },
     {
-      title: "Different types of lab experiments",
-      text: `In the lab, Dus’s team of researchers collect data about feeding patterns and behaviors of fruit flies. They try to connect behaviors to changes in the brain.`,
-      video: "https://www.youtube.com/watch?v=1zRMjV_gRjk"
+      title: "New techniques, old questions",
+      text: `Working with a team of experts, Knowles uses new genomic techniques and computational tools to answer old questions. Combined with morphology and traditional taxonomical analysis, these different avenues of research mean Knowles can be confident about the conclusions she draws.`,
+      video: "https://youtu.be/hKZnXCHOcNo"
     },
     {
-      title: "Effects of a high sugar diet",
-      text: `Dus’s research show that sugar changes your taste.`,
-      video: "https://www.youtube.com/watch?v=GffSMmmrQy8"
-    },
-    {
-      title: "Sugar, sugar everywhere",
-      text: `Balancing our love of sugar with a healthy diet.`,
-      video: "https://www.youtube.com/watch?v=ZDKDbJTVXWg"
-    },
-    {
-      title: "Everyone is a scientist",
-      text: `If you make observations in your everyday life, you *are* a scientist!`,
-      video: "https://www.youtube.com/watch?v=-UJgoU8ZlZM"
+      title: "Be one with the grasshopper",
+      text: `Because grasshoppers don’t fly, catching them out in the field requires thinking like one.
+      Being in the field lets Knowles’s team members see the environment of the specimens they are collecting firsthand. Along with the specimen, they collect climate, georeference, and habitat data.`,
+      video: "https://youtu.be/UzLDx3pAC2k"
     },
   ],
   // Secondary Content
@@ -96,17 +82,29 @@ export default {
   // }
   secondary: [
     {
-      title: "Bitten by our own sweet tooth",
-      text: `Sugar, a high-energy food, is rare in nature. Our bodies evolved to desire it, and to feel as though we can’t get enough.\nBut now, sugar is everywhere. People over-consume, resulting in more obesity and related illnesses.\nPeople think obesity comes from enjoying sugar too much, but the opposite is actually true—the more sugar you eat, the less you can taste and enjoy the sweetness. People seek out even more sugar to get the same pleasure.`,
+      title: "Studying speciation",
+      text: `The first step in studying biodiversity is identifying new species. All the amazing biodiversity on Earth originated through *speciation*, the formation of species.
+      When a group of individuals within a species separates from others via geographic isolation, natural selection, or genetic mutation, it develops its own unique characteristics and forms a new species. Genetic tools are crucial in finding new species.`,
       image: {
-        source: "/images/candy.jpg",
-        desc: "Image showing a a collection of colorful candy.",
+        source: "/images/654 Melanopls cimatario M Panec XII 2006 b.JPG",
+        caption: 'These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*'
+        desc: "These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*",
+      },
+      image: {
+        source: "/images/652 Melanoplus chichimecus F #18 2006 b.JPG",
+        caption: 'These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*'
+        desc: "These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*",
       }
     },
     {
-      title: "What we learn from the appetites of fruit flies",
-      text: `U–M researcher Monica Dus studies how flies react to sugary diets. She has found that flies offered sweeter food will eat more. They also eat more if they’re in a group, and if they see other flies eating a particular food, they will eat more of the same thing.\n
-      Flies get tipsy from the alcohol in rotting fruit, which also prompts them to eat more. And like humans, flies that overeat and become obese, die from the equivalent of heart attacks, kidney disease, and cancer. All of these insights can contribute to strategies designed to improve the health and eating habits of people.`
+      title: "Grasshopper DNA",
+      text: `Researchers use genetic tools to discover whether organisms are variations of the same species or entirely new. On the surface, many organisms look identical to us, but their DNA sequences may show that they are genetically distinct. For example, there were previously thought to be 40-50 species of melanoplus grasshoppers. After sequencing the genes of a variety of melanoplus grasshopper specimens, the number jumped to over 300 distinct melanoplus species!
+      Genomic tools also help us understand how species diversity forms across space and over time as climatic shifts impact the ecological habitats where these grasshoppers live.
+      *Courtesy of Melissa McMasters.*`
+      image: {
+        source: "/images/Grasshopper_(24617999529).jpeg",
+        caption: 'Image of grasshoper on a branch'
+        desc: "Image of grasshoper on a branch",
     }
   ],
   // Additional credit if needed
