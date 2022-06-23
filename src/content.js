@@ -39,12 +39,11 @@ export default {
     },
     {
       title: "Cryptic species",
-      text: `Cryptic species often stump scientists because organisms that look the same on the outside turn out to be completely different internally, or in genetic makeup.  
-      Knowles uses genomic tools to help identify these cryptic species.`,
+      text: `Cryptic species often stump scientists because organisms that look the same on the outside turn out to be completely different internally, or in genetic makeup.\nKnowles uses genomic tools to help identify these cryptic species.`,
       video: "https://youtu.be/IECm2KtwoOw"
     },
     {
-      title: "*Melanoplus* puzzle",
+      title: `*Melanoplus* puzzle`,
       text: `For the past 20 years, Knowles has been researching a group of *Melanoplus* species of grasshoppers in the Rocky Mountains.`,
       video: "https://youtu.be/9dGNWlPzDDs"
     },
@@ -55,8 +54,7 @@ export default {
     },
     {
       title: "Be one with the grasshopper",
-      text: `Because grasshoppers don’t fly, catching them out in the field requires thinking like one.
-      Being in the field lets Knowles’s team members see the environment of the specimens they are collecting firsthand. Along with the specimen, they collect climate, georeference, and habitat data.`,
+      text: `Because grasshoppers don’t fly, catching them out in the field requires thinking like one.\nBeing in the field lets Knowles’s team members see the environment of the specimens they are collecting firsthand. Along with the specimen, they collect climate, georeference, and habitat data.`,
       video: "https://youtu.be/UzLDx3pAC2k"
     },
   ],
@@ -83,28 +81,20 @@ export default {
   secondary: [
     {
       title: "Studying speciation",
-      text: `The first step in studying biodiversity is identifying new species. All the amazing biodiversity on Earth originated through *speciation*, the formation of species.
-      When a group of individuals within a species separates from others via geographic isolation, natural selection, or genetic mutation, it develops its own unique characteristics and forms a new species. Genetic tools are crucial in finding new species.`,
+      text: `The first step in studying biodiversity is identifying new species. All the amazing biodiversity on Earth originated through *speciation*, the formation of species.\nWhen a group of individuals within a species separates from others via geographic isolation, natural selection, or genetic mutation, it develops its own unique characteristics and forms a new species. Genetic tools are crucial in finding new species.`,
       image: {
         source: "/images/654 Melanopls cimatario M Panec XII 2006 b.JPG",
-        caption: 'These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*'
-        desc: "These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*",
-      },
-      image: {
-        source: "/images/652 Melanoplus chichimecus F #18 2006 b.JPG",
-        caption: 'These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*'
-        desc: "These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*",
-      },
+        caption: `These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*`,
+        desc: `These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*`
+      }
     },
     {
       title: "Grasshopper DNA",
-      text: `Researchers use genetic tools to discover whether organisms are variations of the same species or entirely new. On the surface, many organisms look identical to us, but their DNA sequences may show that they are genetically distinct. For example, there were previously thought to be 40-50 species of melanoplus grasshoppers. After sequencing the genes of a variety of melanoplus grasshopper specimens, the number jumped to over 300 distinct melanoplus species!
-      Genomic tools also help us understand how species diversity forms across space and over time as climatic shifts impact the ecological habitats where these grasshoppers live.
-      *Courtesy of Melissa McMasters.*`
+      text: `Researchers use genetic tools to discover whether organisms are variations of the same species or entirely new. On the surface, many organisms look identical to us, but their DNA sequences may show that they are genetically distinct. For example, there were previously thought to be 40-50 species of melanoplus grasshoppers. After sequencing the genes of a variety of melanoplus grasshopper specimens, the number jumped to over 300 distinct melanoplus species!\nGenomic tools also help us understand how species diversity forms across space and over time as climatic shifts impact the ecological habitats where these grasshoppers live.\n*Courtesy of Melissa McMasters.*`,
       image: {
         source: "/images/Grasshopper_(24617999529).jpeg",
-        caption: 'Image of grasshoper on a branch'
-        desc: "Image of grasshoper on a branch",
+        caption: `Image of grasshoper on a branch`,
+        desc: `Image of grasshoper on a branch`
     }
   ],
   // Additional credit if needed
