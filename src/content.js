@@ -95,6 +95,7 @@ export default {
         source: "/images/Grasshopper_(24617999529).jpeg",
         caption: `Image of grasshoper on a branch`,
         desc: `Image of grasshoper on a branch`
+      }
     }
   ],
   // Additional credit if needed
