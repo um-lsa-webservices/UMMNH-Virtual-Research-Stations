@@ -94,18 +94,22 @@ export default {
       title: "What is the future of rainforests",
       text: `The planet’s future may depend on building a deeper understanding of ecohydrology in the Amazon. *Ecohydrology* is the study of the connections between living things and water. In the coming decades the climate crisis will result in an Amazon rainforest that’s hotter and drier than at any previous point in human history. Understanding the science behind the rainforest could help researchers predict future global impacts due to climate change and seek solutions.`,
       image: {
-        source: "/images/candy.jpg",
-        caption: `The image shows the decline of moisture in the air, particularly across the south and southeastern Amazon during the dry season months (August through October) from 1987 to 2016. The brown areas have become drier over time while in the green areas moisture has actually increased. Courtesy of NASA.`,
-        desc: `The image shows the decline of moisture in the air, particularly across the south and southeastern Amazon during the dry season months (August through October) from 1987 to 2016. The brown areas have become drier over time while in the green areas moisture has actually increased. Courtesy of NASA.`
+        source: "/images/Decline-Moisture-Amazon-Rainforest.jpeg",
+        caption: `The image shows the decline of moisture in the air, particularly across the south and southeastern Amazon during the dry season months (August through October) from 1987 to 2016. The brown areas have become drier over time while in the green areas moisture has actually increased.
+        *Courtesy of NASA.*`,
+        desc: `The image shows the decline of moisture in the air, particularly across the south and southeastern Amazon during the dry season months (August through October) from 1987 to 2016. The brown areas have become drier over time while in the green areas moisture has actually increased.
+        *Courtesy of NASA.*`
       }
     },
     {
       title: "Drying out the Amazon Rainforest",
-      text: `In the early 2000s a massive drought hit the Amazon basin. Researchers expected the forest canopy to shut down—but they found the opposite. While some species did pull back to conserve water, others got greener even through the driest period.\nBiological diversity makes ecosystems resilient. Individual species react to conditions differently, and researchers are beginning to understand how these distinct behaviors affect the function of the ecosystem as a whole. By understanding the diversity of plants in the rainforest canopy, researchers can predict how the Amazon rainforest will transform in the future as the climate changes.`,
+      text: `In the early 2000s a massive drought hit the Amazon basin. Researchers expected the forest canopy to shut down—but they found the opposite. While some species did pull back to conserve water, others got greener even through the driest period.
+      Biological diversity makes ecosystems resilient. Individual species react to conditions differently, and researchers are beginning to understand how these distinct behaviors affect the function of the ecosystem as a whole. By understanding the diversity of plants in the rainforest canopy, researchers can predict how the Amazon rainforest will transform in the future as the climate changes.
+      *Courtesy of David Riaño Cortés*`,
       image: {
-        source: "/images/candy.jpg",
-        caption: `Courtesy of David Riaño Cortés.`,
-        desc: `Courtesy of David Riaño Cortés.`
+        source: "/images/david-riaño-cortés-975771.jpeg",
+        caption: `Image of a foggy rainforest trail.`,
+        desc: `Image of a foggy rainforest trail.`
       }
     }
   ],
