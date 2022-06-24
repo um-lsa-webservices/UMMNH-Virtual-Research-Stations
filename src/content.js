@@ -28,50 +28,45 @@ export default {
   // },
   main: [
     {
-      title: "Meet Monica Dus",
-      text: `Monica Dus, PhD, is Assistant Professor of Molecular, Cellular, and Developmental Biology at the University of Michigan.`,
-      video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
+      title: "Meet Liuyan Zhao",
+      text: `Liuyan Zhao, PhD, is Assistant Professor of Physics at University of Michigan.\nZhao is an experimental condensed matter physics scientist. Her research group searches for new states in materials. These new states occur at the electron level, and can be observed in unique magnetic properties.`,
+      video: "https://youtu.be/EH-HKo00jWM"
     },
     {
-      title: "Studying fruit flies in the lab",
-      text: `Dus’s lab studies the model organism *Drosophila melanogaster*, the common fruit flies in your kitchen.
-      • Their generation time is only 10–12 days.
-      • They are inexpensive and don’t require a lot of space.
-      • They are easier to mutate since they only have four pairs of chromosomes.`,
+      title: "Zhao Research Group",
+      text: `How do you make a new discovery that’s never been observed, or we never knew existed before?\nZhao Research Group investigates the symmetry, time, and spatial properties of materials and elements using lasers. These measurements help them look for new states at the electron level, which are observed in unique magnetic properties.\nDiscovering these new magnetic properties may be the key to unlocking future technologies in computer sciences and data processing. Or, it might just be a new piece in the puzzle to completing fundamental quantum physics theories.`,
       image: {
-        source: "/images/Dus_01b_FlyImg.png",
-        desc: "Two images; one shows a closeup of the drosophila melanogaster fruit fly, the second showing a group of them."
+        source: "/images/Zhao02GraphicA.png",
+        desc: "Liuyan Zhao and her team at the Zhao Research Group laboratory. Optical instruments are meticulously set up to manipulate the laser light used for data collection."
       }
     },
     {
-      title: "A lifelong passion",
-      text: `Dus’s passion for genetics and fruit flies began in high school.`,
-      video: "https://www.youtube.com/watch?v=7b3UZel5M4g"
+      title: "Lasers and optics",
+      text: `Using a technique called *rotational anisotropy-second harmonic generation*, or RA-SHG, Zhao’s lab measures laser light that is reflected off of the material (the SHG signal) with a photon-sensitive camera. These sensitive cameras take up to 1 minute to record one pixel of an image, at the scale of 200 microns.\nRA-SHG scan data helps researchers create a map and pinpoint areas of the material to do further experiments. This includes looking at symmetrical properties, how properties change in extreme temperatures, or changes through time.`,
+      image: {
+        source: "/images/Zhao02GraphicB.png",
+        desc: "Microscope image for NiTiO3 and SHG scanning image for NiTiO3. The area of interest is indicated by the white line bordering the light and dark areas."
+      }
     },
     {
-      title: "The fruit fly proboscis",
-      text: `Fruit flies do not have teeth or a tongue. Instead, their taste sensors are on the outside of their trunk-like feeding extension, called a *proboscis.* Scientists can measure the extension response of the proboscis for research.`,
-      video: "https://www.youtube.com/watch?v=iWUqYeZf8wY"
+      title: "Working with 2D and 3D samples",
+      text: `The materials Zhao’s lab studies are not typically found in nature. They can be 3D samples that are very small or 2D samples that are as thin as a single atom. After preparation, the samples are ready for laser light measurements, their properties with laser light, or see how they react in extreme low temperatures.\nYoungjun Ahn is a postdoctoral research fellow and Hongchao Xie is a postdoctoral scholar at the University of Michigan.`,
+      video: "https://youtu.be/CYkn5jcsgE8"
     },
     {
-      title: "Different types of lab experiments",
-      text: `In the lab, Dus’s team of researchers collect data about feeding patterns and behaviors of fruit flies. They try to connect behaviors to changes in the brain.`,
-      video: "https://www.youtube.com/watch?v=1zRMjV_gRjk"
+      title: "RA-SHG",
+      text: `Zhao’s lab uses a technique called rotational anisotropy-second harmonic generation, or RA-SHG. Laser light is directed onto the sample material and its properties are then observed by measuring light (the SHG signal) that reflects off of it.\nXiaoyu Guo is a graduate student in the Zhao Research Group.`,
+      video: "https://youtu.be/Zo2Z1_b4lhI"
     },
     {
-      title: "Effects of a high sugar diet",
-      text: `Dus’s research show that sugar changes your taste.`,
-      video: "https://www.youtube.com/watch?v=GffSMmmrQy8"
+      title: "Measurements through time",
+      text: `Time-resolved RA-SHG (Tr-RA-SHG) uses multiple laser pulses to make measurements through time. Using this technique, the Zhao Research Group can see how a sample’s properties may change through time.\nRachel Owen is a graduate student in the Department of Physics at University of Michigan.`,
+      video: "https://youtu.be/uS7cPiYqMA0"
     },
     {
-      title: "Sugar, sugar everywhere",
-      text: `Balancing our love of sugar with a healthy diet.`,
-      video: "https://www.youtube.com/watch?v=ZDKDbJTVXWg"
-    },
-    {
-      title: "Everyone is a scientist",
-      text: `If you make observations in your everyday life, you *are* a scientist!`,
-      video: "https://www.youtube.com/watch?v=-UJgoU8ZlZM"
+      title: "Completing the ferro-rotational order",
+      text: `The Zhao Research Group was the first to observe a ferro-rotational moment. This phenomenon had never been directly observed before, but had been theorized in quantum physics. The result was achieved using RA-SHG techniques with the material RbFe(MoO4)2 in extremely low temperatures.\nElizabeth Drueke is a graduate student in the Department of Physics at University of Michigan.`,
+      video: "https://youtu.be/_HFYKet2dqo"
     },
   ],
   // Secondary Content
@@ -96,21 +91,25 @@ export default {
   // }
   secondary: [
     {
-      title: "Bitten by our own sweet tooth",
-      text: `Sugar, a high-energy food, is rare in nature. Our bodies evolved to desire it, and to feel as though we can’t get enough.\nBut now, sugar is everywhere. People over-consume, resulting in more obesity and related illnesses.\nPeople think obesity comes from enjoying sugar too much, but the opposite is actually true—the more sugar you eat, the less you can taste and enjoy the sweetness. People seek out even more sugar to get the same pleasure.`,
+      title: "The search for new states",
+      text: `In *experimental condensed matter physics*, scientists look for new states in materials. These new states, such as magnetism, originate from interactions at the electron level. Discovering these new magnetic properties may be the key to unlocking new technologies in computer science and faster data processing. Or, it could be a new piece in the effort to complete the puzzle of fundamental quantum physics theories.\n*Courtesy of Zhao Research Group*`,
       image: {
-        source: "/images/candy.jpg",
-        desc: "Image showing a a collection of colorful candy.",
+        source: "/images/ZhaoPosterImage.jpg",
+        caption: `The Zhao lab uses optical lasers to perform experiments on different materials then creates a visual map of the materials’ unique properties.`,
+        desc: "The Zhao lab uses optical lasers to perform experiments on different materials then creates a visual map of the materials’ unique properties.",
       }
     },
     {
-      title: "What we learn from the appetites of fruit flies",
-      text: `U–M researcher Monica Dus studies how flies react to sugary diets. She has found that flies offered sweeter food will eat more. They also eat more if they’re in a group, and if they see other flies eating a particular food, they will eat more of the same thing.\n
-      Flies get tipsy from the alcohol in rotting fruit, which also prompts them to eat more. And like humans, flies that overeat and become obese, die from the equivalent of heart attacks, kidney disease, and cancer. All of these insights can contribute to strategies designed to improve the health and eating habits of people.`
+      title: "Visualizing material properties",
+      text: `Researchers in condensed matter physics study ordering phenomena, or the way electrons interact and line up to give rise to new and exciting properties. Condensed matter physicists often use materials not typically found in nature. Material samples are grown in the lab for scientists to measure and observe.\nSome samples are so small that they are no longer three dimensional but rather exist in two dimensions and can be as thin as an atom.\nAfter prepping the samples, researchers measure their properties with laser light. A laser is shone onto the sample material through a set of specialized optics.\nMeasuring the light that is reflected off of the materials, scientists create a visual map of existence and distribution of ordered states, resolve the mystery of their origin, and guide the design of future experiments and applications.`
     }
   ],
   // Additional credit if needed
-  credits: [
-
+credits: [
+    {
+      image: "/images/nsfLogo.png",
+      desc: "National Science Foundation Logo",
+      link: "https://www.nsf.gov/"
+    }
   ]
 };
