@@ -28,50 +28,39 @@ export default {
   // },
   main: [
     {
-      title: "Meet Monica Dus",
-      text: `Monica Dus, PhD, is Assistant Professor of Molecular, Cellular, and Developmental Biology at the University of Michigan.`,
-      video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
+      title: "Supporting research in the field",
+      text: `Resident Biologist Adam Schubel describes how UMBS supports visiting researchers. The Biostation’s facilities include a stream lab, a chemistry lab and two flux towers that measures Co2 exchange with the atmosphere.`,
+      video: "https://youtu.be/sXqLkgK5O8Q"
     },
     {
-      title: "Studying fruit flies in the lab",
-      text: `Dus’s lab studies the model organism *Drosophila melanogaster*, the common fruit flies in your kitchen.
-      • Their generation time is only 10–12 days.
-      • They are inexpensive and don’t require a lot of space.
-      • They are easier to mutate since they only have four pairs of chromosomes.`,
-      image: {
-        source: "/images/Dus_01b_FlyImg.png",
-        desc: "Two images; one shows a closeup of the drosophila melanogaster fruit fly, the second showing a group of them."
-      }
+      title: "A century of research",
+      text: `The UMBS is located at the “tip of the mitt.” For over a century, researchers and students have gathered to study human impact on the environment in this unique setting.`,
+      video: "https://youtu.be/Wr76ZrjGUi8"
     },
     {
-      title: "A lifelong passion",
-      text: `Dus’s passion for genetics and fruit flies began in high school.`,
-      video: "https://www.youtube.com/watch?v=7b3UZel5M4g"
+      title: "The value of longterm data",
+      text: `As the oldest continuously running field station in the nation, UMBS researchers have collected an immense and diverse dataset. This invaluable information is carefully stored and managed so scientists will be able to access it well into the future.`,
+      video: "https://youtu.be/IJBaFKIZ74s"
     },
     {
-      title: "The fruit fly proboscis",
-      text: `Fruit flies do not have teeth or a tongue. Instead, their taste sensors are on the outside of their trunk-like feeding extension, called a *proboscis.* Scientists can measure the extension response of the proboscis for research.`,
-      video: "https://www.youtube.com/watch?v=iWUqYeZf8wY"
+      title: "The outdoor classroom",
+      text: `U-M alum and UMBS faculty member Amy Schrank, PhD, is an Adjunct Assistant Professor at the University of Minnesota. At UMBS, she uses the unique setting to expose students of all types to field work in her specialty, the biology and ecology of fishes.`,
+      video: "https://youtu.be/bMXK6G8PeKM"
     },
     {
-      title: "Different types of lab experiments",
-      text: `In the lab, Dus’s team of researchers collect data about feeding patterns and behaviors of fruit flies. They try to connect behaviors to changes in the brain.`,
-      video: "https://www.youtube.com/watch?v=1zRMjV_gRjk"
+      title: "Studying hydrology in a one-of-a-kind lab",
+      text: `Phoebe Aron, PhD is a postdoctoral fellow at the University of Michigan. Focusing on hydrology and climate sciences, her research at UMBS looks at the role of forest structure in water regulation.`,
+      video: "https://youtu.be/m9n8uoGsO_o"
     },
     {
-      title: "Effects of a high sugar diet",
-      text: `Dus’s research show that sugar changes your taste.`,
-      video: "https://www.youtube.com/watch?v=GffSMmmrQy8"
+      title: "The year I stopped being afraid",
+      text: `Every year, UMBS welcomes U-M students to its campus for summer courses. For many, the hands on learning in the field can be a life changing experience.`,
+      video: "https://youtu.be/j5ynuf_BC74"
     },
     {
-      title: "Sugar, sugar everywhere",
-      text: `Balancing our love of sugar with a healthy diet.`,
-      video: "https://www.youtube.com/watch?v=ZDKDbJTVXWg"
-    },
-    {
-      title: "Everyone is a scientist",
-      text: `If you make observations in your everyday life, you *are* a scientist!`,
-      video: "https://www.youtube.com/watch?v=-UJgoU8ZlZM"
+      title: "Conversations to collaborations",
+      text: `The living-learning community at UMBS makes it easy to connect with other students and researchers. Sometimes, the best science collaborations begin from a simple conversation.`,
+      video: "https://youtu.be/rdr223ATSWE"
     },
   ],
   // Secondary Content
@@ -96,17 +85,22 @@ export default {
   // }
   secondary: [
     {
-      title: "Bitten by our own sweet tooth",
-      text: `Sugar, a high-energy food, is rare in nature. Our bodies evolved to desire it, and to feel as though we can’t get enough.\nBut now, sugar is everywhere. People over-consume, resulting in more obesity and related illnesses.\nPeople think obesity comes from enjoying sugar too much, but the opposite is actually true—the more sugar you eat, the less you can taste and enjoy the sweetness. People seek out even more sugar to get the same pleasure.`,
+      title: "Born from the ashes",
+      text: `The University of Michigan Biological Station (UMBS) is located on the ancestral land of the Burt Lake Band of Ottawa and Chippewa Indians. After the Band’s forced relocation, logging and fires destroyed the landscape. UMBS was established in 1909 on land acquired from lumber barons. For decades, student and faculty researchers studied first-hand how land exploitation impacted the environment. The 10,000-acre property has since been reforested via natural processes.\n*Top image courtesy of U-M Biological Station*\n*Bottom image courtesy of John Den Uyl*`,
       image: {
-        source: "/images/candy.jpg",
-        desc: "Image showing a a collection of colorful candy.",
+        source: "/images/UMBS_Poster_Image1.jpeg",
+        caption: `Top image: After Michigan's logging era, much of the northern part of the state looked like a wasteland.\nBottom image: The view above the rain garden toward Douglas Lake at UMBS.`,
+        desc: "Top image: After Michigan's logging era, much of the northern part of the state looked like a wasteland.\nBottom image: The view above the rain garden toward Douglas Lake at UMBS."
       }
     },
     {
-      title: "What we learn from the appetites of fruit flies",
-      text: `U–M researcher Monica Dus studies how flies react to sugary diets. She has found that flies offered sweeter food will eat more. They also eat more if they’re in a group, and if they see other flies eating a particular food, they will eat more of the same thing.\n
-      Flies get tipsy from the alcohol in rotting fruit, which also prompts them to eat more. And like humans, flies that overeat and become obese, die from the equivalent of heart attacks, kidney disease, and cancer. All of these insights can contribute to strategies designed to improve the health and eating habits of people.`
+      title: "Community and collaborations",
+      text: `Today, UMBS students engage in and learn about biology and environmental science by studying directly in the field and by working alongside experts. UMBS is a highly interactive community where students, faculty and researchers come together to learn about the natural world, to examine environmental change, and to seek solutions to the critical environmental challenges of our times—climate change and invasive species foremost among them.\n*Courtesy of U-M Biological Station*`,
+      image: {
+        source: "/images/Logging.jpeg",
+        caption: `Students participate in a field lab at Sturgeon Bay in 2019.`,
+        desc: "Students participate in a field lab at Sturgeon Bay in 2019."
+      }      
     }
   ],
   // Additional credit if needed
