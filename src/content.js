@@ -88,7 +88,7 @@ export default {
       title: "Born from the ashes",
       text: `The University of Michigan Biological Station (UMBS) is located on the ancestral land of the Burt Lake Band of Ottawa and Chippewa Indians. After the Band’s forced relocation, logging and fires destroyed the landscape. UMBS was established in 1909 on land acquired from lumber barons. For decades, student and faculty researchers studied first-hand how land exploitation impacted the environment. The 10,000-acre property has since been reforested via natural processes.\n*Top image courtesy of U-M Biological Station*\n*Bottom image courtesy of John Den Uyl*`,
       image: {
-        source: "/images/UMBS_Poster_Image1.jpeg",
+        source: "/images/UMBSPosterImage1.jpg",
         caption: `Top image: After Michigan's logging era, much of the northern part of the state looked like a wasteland.\nBottom image: The view above the rain garden toward Douglas Lake at UMBS.`,
         desc: "Top image: After Michigan's logging era, much of the northern part of the state looked like a wasteland.\nBottom image: The view above the rain garden toward Douglas Lake at UMBS."
       }
