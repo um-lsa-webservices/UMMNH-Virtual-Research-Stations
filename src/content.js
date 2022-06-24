@@ -99,7 +99,11 @@ export default {
     }
   ],
   // Additional credit if needed
-  credits: [
-
+credits: [
+    {
+      image: "/images/nsfLogo.png",
+      desc: "National Science Foundation Logo",
+      link: "https://www.nsf.gov/"
+    }
   ]
 };
