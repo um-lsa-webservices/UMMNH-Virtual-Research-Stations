@@ -83,7 +83,7 @@ export default {
       title: "Studying speciation",
       text: `The first step in studying biodiversity is identifying new species. All the amazing biodiversity on Earth originated through *speciation*, the formation of species.\nWhen a group of individuals within a species separates from others via geographic isolation, natural selection, or genetic mutation, it develops its own unique characteristics and forms a new species. Genetic tools are crucial in finding new species.`,
       image: {
-        source: "/images/654 Melanopls cimatario M Panec XII 2006 b.JPG",
+        source: "/images/KnowlesPosterImage1.jpg",
         caption: `These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*`,
         desc: `These grasshoppers may look almost identical, but their DNA reveals that they are two different species: *Melanoplus cimatario* (top) and *Melanoplus chichimecus* (bottom). \n *Courtesy of Knowles Lab / U-M Ecology and Evolutionary Biology*`
       }
