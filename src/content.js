@@ -28,50 +28,29 @@ export default {
   // },
   main: [
     {
-      title: "Meet Monica Dus",
-      text: `Monica Dus, PhD, is Assistant Professor of Molecular, Cellular, and Developmental Biology at the University of Michigan.`,
-      video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
+      title: "Meet Trisha Wittkopp",
+      text: `Trisha Wittkopp, PhD, is Arthur F. Thurnau Professor, Sally L. Allen Collegiate Professor, and Chair of Ecology and Evolutionary Biology at University of Michigan.`,
+      video: "https://youtu.be/pZ6rNF87Vgk"
     },
     {
-      title: "Studying fruit flies in the lab",
-      text: `Dus’s lab studies the model organism *Drosophila melanogaster*, the common fruit flies in your kitchen.
-      • Their generation time is only 10–12 days.
-      • They are inexpensive and don’t require a lot of space.
-      • They are easier to mutate since they only have four pairs of chromosomes.`,
-      image: {
-        source: "/images/Dus_01b_FlyImg.png",
-        desc: "Two images; one shows a closeup of the drosophila melanogaster fruit fly, the second showing a group of them."
-      }
+      title: "The role of mutations in evolution",
+      text: `Wittkopp’s research focuses on the rise of genetic changes through mutations over evolutionary time. Mutations are the key to biodiversity and are responsible for the diverse beauty in the natural world.`,
+      video: "https://youtu.be/1q-wlGg7ra0"
     },
     {
-      title: "A lifelong passion",
-      text: `Dus’s passion for genetics and fruit flies began in high school.`,
-      video: "https://www.youtube.com/watch?v=7b3UZel5M4g"
+      title: "Why don’t pigs fly?",
+      text: `The developmental process within each species shapes what’s possible in mutations. For example, humans are usually symmetrical, so our left and right hands are mirrored.\nThis concept of constraint means that although we can imagine flying pigs, there is no genetic change that can cause that trait in pigs, so we may never see the day pigs fly!`,
+      video: "https://youtu.be/td6CGZApqFU"
     },
     {
-      title: "The fruit fly proboscis",
-      text: `Fruit flies do not have teeth or a tongue. Instead, their taste sensors are on the outside of their trunk-like feeding extension, called a *proboscis.* Scientists can measure the extension response of the proboscis for research.`,
-      video: "https://www.youtube.com/watch?v=iWUqYeZf8wY"
+      title: "Working with fruit flies",
+      text: `The Wittkopp Lab studies the genetic basis of differences that can be seen in cell types, between individuals of the same species, or between species. Working with different fruit fly *Drosophila* species, Wittkopp and her team look at variable traits such as pigmentation to study the role of gene expression.`,
+      video: "https://youtu.be/BiPao1QZIiA"
     },
     {
-      title: "Different types of lab experiments",
-      text: `In the lab, Dus’s team of researchers collect data about feeding patterns and behaviors of fruit flies. They try to connect behaviors to changes in the brain.`,
-      video: "https://www.youtube.com/watch?v=1zRMjV_gRjk"
-    },
-    {
-      title: "Effects of a high sugar diet",
-      text: `Dus’s research show that sugar changes your taste.`,
-      video: "https://www.youtube.com/watch?v=GffSMmmrQy8"
-    },
-    {
-      title: "Sugar, sugar everywhere",
-      text: `Balancing our love of sugar with a healthy diet.`,
-      video: "https://www.youtube.com/watch?v=ZDKDbJTVXWg"
-    },
-    {
-      title: "Everyone is a scientist",
-      text: `If you make observations in your everyday life, you *are* a scientist!`,
-      video: "https://www.youtube.com/watch?v=-UJgoU8ZlZM"
+      title: "Searching for Rare Mutations",
+      text: `To study the effects of new mutations and how they introduce variation, Wittkopp uses baker’s yeast, or *Saccharomyces cerevisiae*. Fruit flies have a generation time of two weeks, but in one day, yeast can reproduce in the millions.\nThat means that in a much shorter time, researchers can track the inheritance traits over time, and search for rare mutations in individual yeast cells.`,
+      video: "https://youtu.be/4L-w7MX5iiI"
     },
   ],
   // Secondary Content
@@ -96,21 +75,25 @@ export default {
   // }
   secondary: [
     {
-      title: "Bitten by our own sweet tooth",
-      text: `Sugar, a high-energy food, is rare in nature. Our bodies evolved to desire it, and to feel as though we can’t get enough.\nBut now, sugar is everywhere. People over-consume, resulting in more obesity and related illnesses.\nPeople think obesity comes from enjoying sugar too much, but the opposite is actually true—the more sugar you eat, the less you can taste and enjoy the sweetness. People seek out even more sugar to get the same pleasure.`,
+      title: "Why can’t cats shoot lasers from their eyes?",
+      text: `Seemingly, laser eyes would give cats an evolutionary advantage as predators. However, there are no likely mutations in their genetic material that would allow cats to project lasers from their eyes. Without such mutations, natural selection cannot favor the evolution of this trait. Evolution isn’t only about the survival of the fittest, it also requires the arrival of the fittest through a mutation that causes a beneficial trait.`,
       image: {
-        source: "/images/candy.jpg",
-        desc: "Image showing a a collection of colorful candy.",
+        source: "/images/Laser cat.png",
+        caption: `Even if it would be adaptive, cats cannot evolve laser eyes because no mutations cause lasers to develop.`,
+        desc: `Even if it would be adaptive, cats cannot evolve laser eyes because no mutations cause lasers to develop.`
       }
     },
     {
-      title: "What we learn from the appetites of fruit flies",
-      text: `U–M researcher Monica Dus studies how flies react to sugary diets. She has found that flies offered sweeter food will eat more. They also eat more if they’re in a group, and if they see other flies eating a particular food, they will eat more of the same thing.\n
-      Flies get tipsy from the alcohol in rotting fruit, which also prompts them to eat more. And like humans, flies that overeat and become obese, die from the equivalent of heart attacks, kidney disease, and cancer. All of these insights can contribute to strategies designed to improve the health and eating habits of people.`
+      title: "Genetic mutations in SARS-CoV-2 viral strains",
+      text: `The SARS-CoV-2 virus that causes COVID-19 has been acquiring random mutations ever since it jumped from animals to humans. These mutations can take the form of single-letter typos in the viral genetic code or deletions or insertions of longer stretches of genetic material. Because new mutations quickly arise with each round of replication, each copy of a virus circulating in the population offers a chance for SARS-CoV-2 to reinvent itself. The  evolutionary history of the virus, from its origins in another species to its spread within human populations, is captured within its genetic sequences, making an understanding of evolutionary biology and the tools used to study it essential for tracking and mitigating disease outbreaks. Studying the effects of new mutations and how they interact with natural selection can help us understand, prepare for, and respond to biological challenges caused by SARS-CoV-2 and other pathogens.`
     }
   ],
   // Additional credit if needed
   credits: [
-
+    {
+      image: "/images/nsfLogo.png",
+      desc: "National Science Foundation Logo",
+      link: "https://www.nsf.gov/"
+    }
   ]
 };
