@@ -43,7 +43,7 @@ export default {
       video: "https://youtu.be/IECm2KtwoOw"
     },
     {
-      title: `*Melanoplus* puzzle`,
+      title: `Melanoplus puzzle`,
       text: `For the past 20 years, Knowles has been researching a group of *Melanoplus* species of grasshoppers in the Rocky Mountains.`,
       video: "https://youtu.be/9dGNWlPzDDs"
     },
