@@ -29,7 +29,7 @@ export default {
   main: [
     {
       title: "Meet Valeriy Ivanov",
-      text: `Valeriy Ivanov, PhD, is Associate Professor in the Department of Civil and Environmental Engineering at University of Michigan.\n\nBrazil field footage courtesy of:\nJoseph Xu, University of Michigan Engineering.`,
+      text: `Valeriy Ivanov, PhD, is Associate Professor in the Department of Civil and Environmental Engineering at University of Michigan.\n\n*Brazil field footage courtesy of:\nJoseph Xu, University of Michigan Engineering.*`,
       video: "https://youtu.be/n-S9IBB8r7E"
     },
     {
@@ -50,22 +50,22 @@ export default {
     },
     {
       title: "Making a bet",
-      text: `Tyeen Taylor works closely with Ivanov at field site K67 and is a postdoctoral researcher at the University of Michigan, specializing in plant interactions with the atmosphere.\nDiverse species of trees have different survival strategies. These different “bets” help the Amazon rainforest survive and thrive.\n\nK67 field footage and specimen photos courtesy of Tyeen Taylor.\nAdditional field footage courtesy of Joseph Xu, University of Michigan Engineering.`,
+      text: `Tyeen Taylor works closely with Ivanov at field site K67 and is a postdoctoral researcher at the University of Michigan, specializing in plant interactions with the atmosphere.\nDiverse species of trees have different survival strategies. These different “bets” help the Amazon rainforest survive and thrive.\n\n*K67 field footage and specimen photos courtesy of Tyeen Taylor.\nAdditional field footage courtesy of Joseph Xu, University of Michigan Engineering.*`,
       video: "https://youtu.be/vNSiSph3mws"
     },
     {
       title: "From data to models",
-      text: `Ivanov creates predictive models that help us understand the future of the Amazon. But how do you accurately, yet efficiently, represent 16,000 species of trees in a computer model?\n\nBrazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering.`,
+      text: `Ivanov creates predictive models that help us understand the future of the Amazon. But how do you accurately, yet efficiently, represent 16,000 species of trees in a computer model?\n\n*Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering.*`,
       video: "https://youtu.be/pTZke2Xe-IE"
     },
     {
       title: "Working in a rainforest",
-      text: `Field work in the Amazon comes with many trials, errors, and challenges.\n\nBrazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.`,
+      text: `Field work in the Amazon comes with many trials, errors, and challenges.\n\n*Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.*`,
       video: "https://youtu.be/K9d9ahZdR4w"
     },
     {
       title: "Conversations that lead to science",
-      text: `Back at base camp, U-M researchers and local collaborators forge friendships and discover shared curiosities that make doing science in the Amazon possible.\n\nBrazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.`,
+      text: `Back at base camp, U-M researchers and local collaborators forge friendships and discover shared curiosities that make doing science in the Amazon possible.\n\n*Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.*`,
       video: "https://youtu.be/-sGXKxfjMRM"
     }
   ],
