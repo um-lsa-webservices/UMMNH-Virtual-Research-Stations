@@ -29,7 +29,7 @@ export default {
   main: [
     {
       title: "Meet Valeriy Ivanov",
-      text: `Valeriy Ivanov, PhD, is Associate Professor in the Department of Civil and Environmental Engineering at University of Michigan.\n\n*Brazil field footage courtesy of:\nJoseph Xu, University of Michigan Engineering.*`,
+      text: `Valeriy Ivanov, PhD, is Associate Professor in the Department of Civil and Environmental Engineering at University of Michigan.\n\n*Brazil field footage courtesy of:*\n*Joseph Xu, University of Michigan Engineering.*`,
       video: "https://youtu.be/n-S9IBB8r7E"
     },
     {
@@ -50,7 +50,7 @@ export default {
     },
     {
       title: "Making a bet",
-      text: `Tyeen Taylor works closely with Ivanov at field site K67 and is a postdoctoral researcher at the University of Michigan, specializing in plant interactions with the atmosphere.\nDiverse species of trees have different survival strategies. These different “bets” help the Amazon rainforest survive and thrive.\n\n*K67 field footage and specimen photos courtesy of Tyeen Taylor.\nAdditional field footage courtesy of Joseph Xu, University of Michigan Engineering.*`,
+      text: `Tyeen Taylor works closely with Ivanov at field site K67 and is a postdoctoral researcher at the University of Michigan, specializing in plant interactions with the atmosphere.\nDiverse species of trees have different survival strategies. These different “bets” help the Amazon rainforest survive and thrive.\n\n*K67 field footage and specimen photos courtesy of Tyeen Taylor.*\n*Additional field footage courtesy of Joseph Xu, University of Michigan Engineering.*`,
       video: "https://youtu.be/vNSiSph3mws"
     },
     {
