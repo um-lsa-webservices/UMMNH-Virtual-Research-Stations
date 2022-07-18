@@ -29,7 +29,7 @@ export default {
   main: [
     {
       title: "Meet Jesse Capecelatro",
-      text: `Jesse Capecelatro, PhD, is Assistant Professor of Mechanical Engineering and Aerospace Engineering at University of Michigan.`,
+      text: `Jesse Capecelatro, PhD, Assistant Professor of Mechanical Engineering and Aerospace Engineering, University of Michigan.`,
       video: "https://youtu.be/oTjkbPoOqB0"
     },
     {
