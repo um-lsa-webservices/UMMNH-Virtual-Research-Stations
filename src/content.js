@@ -29,7 +29,7 @@ export default {
   main: [
     {
       title: "Meet Jesse Capecelatro",
-      text: `Jesse Capecelatro, PhD, Assistant Professor of <a href="https://majors.engin.umich.edu/program/mechanical-engineering/">Mechanical Engineering</a> and <a href="https://aero.engin.umich.edu/">Aerospace Engineering</a>, University of Michigan.`,
+      text: `Jesse Capecelatro, PhD, Assistant Professor of Mechanical Engineering and Aerospace Engineering, University of Michigan.`,
       video: "https://youtu.be/oTjkbPoOqB0"
     },
     {
