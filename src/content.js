@@ -42,7 +42,7 @@ export default {
     },
     {
       title: "Lasers and optics",
-      text: `Using a technique called *rotational anisotropy-second harmonic generation*, or RA-SHG, Zhao’s lab measures laser light that is reflected off of the material (the SHG signal) with a photon-sensitive camera. These sensitive cameras take up to 1 minute to record one pixel of an image, at the scale of 200 microns.\nRA-SHG scan data helps researchers create a map and pinpoint areas of the material to do further experiments. This includes looking at symmetrical properties, how properties change in extreme temperatures, or changes through time.`,
+      text: `Using a technique called *rotational anisotropy-second harmonic generation*, or RA-SHG, Zhao’s lab measures laser light that is reflected off of the material (the SHG signal) with a photon-sensitive camera. These sensitive cameras take up to one minute to record one pixel of an image, at the scale of 200 microns.\nRA-SHG scan data helps researchers create a map and pinpoint areas of the material to do further experiments. This includes looking at symmetrical properties, how properties change in extreme temperatures, or changes through time.`,
       image: {
         source: "/images/Zhao02GraphicB.png",
         desc: "Microscope image for NiTiO3 and SHG scanning image for NiTiO3. The area of interest is indicated by the white line bordering the light and dark areas."
