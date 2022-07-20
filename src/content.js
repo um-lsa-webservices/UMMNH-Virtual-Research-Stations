@@ -90,11 +90,11 @@ export default {
     },
     {
       title: "Grasshopper DNA",
-      text: `Researchers use genetic tools to discover whether organisms are variations of the same species or entirely new. On the surface, many organisms look identical to us, but their DNA sequences may show that they are genetically distinct. For example, there were previously thought to be 40-50 species of melanoplus grasshoppers. After sequencing the genes of a variety of melanoplus grasshopper specimens, the number jumped to over 300 distinct melanoplus species!\nGenomic tools also help us understand how species diversity forms across space and over time as climatic shifts impact the ecological habitats where these grasshoppers live.\n*Courtesy of Melissa McMasters.*`,
+      text: `Researchers use genetic tools to discover whether organisms are variations of the same species or entirely new. On the surface, many organisms look identical to us, but their DNA sequences may show that they are genetically distinct. For example, there were previously thought to be 40-50 species of melanoplus grasshoppers. After sequencing the genes of a variety of melanoplus grasshopper specimens, the number jumped to over 300 distinct melanoplus species!\nGenomic tools also help us understand how species diversity forms across space and over time as climatic shifts impact the ecological habitats where these grasshoppers live.`,
       image: {
         source: "/images/Grasshopper_(24617999529).jpeg",
-        caption: `Image of grasshoper on a branch`,
-        desc: `Image of grasshoper on a branch`
+        caption: `Studying grasshopper genes helps researchers learn how living things adapt to their environment.\n*Courtesy of Melissa McMasters.*`,
+        desc: `Studying grasshopper genes helps researchers learn how living things adapt to their environment.\n*Courtesy of Melissa McMasters.*`
       }
     }
   ],
