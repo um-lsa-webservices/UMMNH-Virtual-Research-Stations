@@ -34,7 +34,7 @@ export default {
     },
     {
       title: "Supercomputers",
-      text: `Computational fluid dynamics would not be possible without supercomputers. Capecelatro’s research group depends on the Great Lakes high-performance computing cluster, provided by the Advanced Research Computing (ARC), a division of Information and Technology Services at University of Michigan.`,
+      text: `Computational fluid dynamics would not be possible without supercomputers. Capecelatro’s research group depends on the Great Lakes high-performance computing cluster, provided by the Advanced Research Computing (ARC), a division of Information and Technology Services at the University of Michigan.`,
       video: "https://youtu.be/suJsK36KRJY"
     },
     {
