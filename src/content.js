@@ -33,7 +33,7 @@ export default {
       video: "https://youtu.be/n-S9IBB8r7E"
     },
     {
-      title: "Field site K67 in Brazil",
+      title: "Field site K67",
       text: `K67 (named by locals for its proximity to kilometer 67 on highway BR-163) is an Amazon rainforest field site located in the Tapajós National Forest in Brazil.\nThe site provides equipment such as the 200’ tall AmeriFlux tower, which focuses measurements on carbon dioxide, as well as below ground sensors for soil water content.`,
       image: {
         source: "/images/Ivanov_K67_site_02a.png",
@@ -41,7 +41,7 @@ export default {
       }
     },
     {
-      title: "Sensors, meters and data",
+      title: "Field equipment",
       text: ` Ivanov installs and monitors sap flow sensors and stem psychrometers to measure water flow within the tree.\nMeasurements such as canopy structure or photosynthesis are taken by colleagues who specialize in plant physiology.\nThe collected data from K67 allows for an integrated view of how trees function in the rainforest, and allows Ivanov to create better predictive models.`,
       image: {
         source: "/images/Ivanov_K67_site_02b.png",
@@ -49,12 +49,12 @@ export default {
       }
     },
     {
-      title: "Making a bet",
+      title: "Plant strategies",
       text: `Tyeen Taylor works closely with Ivanov at field site K67 and is a postdoctoral researcher at the University of Michigan, specializing in plant interactions with the atmosphere.\nDiverse species of trees have different survival strategies. These different “bets” help the Amazon rainforest survive and thrive.\n\n*K67 field footage and specimen photos courtesy of Tyeen Taylor.*\n*Additional field footage courtesy of Joseph Xu, University of Michigan Engineering.*`,
       video: "https://youtu.be/vNSiSph3mws"
     },
     {
-      title: "From data to models",
+      title: "Power of the model",
       text: `Ivanov creates predictive models that help us understand the future of the Amazon. But how do you accurately, yet efficiently, represent 16,000 species of trees in a computer model?\n\n*Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering.*`,
       video: "https://youtu.be/pTZke2Xe-IE"
     },
@@ -64,7 +64,7 @@ export default {
       video: "https://youtu.be/K9d9ahZdR4w"
     },
     {
-      title: "Conversations that lead to science",
+      title: "Collaborators",
       text: `Back at base camp, U-M researchers and local collaborators forge friendships and discover shared curiosities that make doing science in the Amazon possible.\n\n*Brazil field footage and photos courtesy of Joseph Xu, University of Michigan Engineering and Tyeen Taylor.*`,
       video: "https://youtu.be/-sGXKxfjMRM"
     }
