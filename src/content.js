@@ -33,7 +33,7 @@ export default {
       video: "https://youtu.be/pZ6rNF87Vgk"
     },
     {
-      title: "The role of mutations in evolution",
+      title: "Mutations",
       text: `Wittkopp’s research focuses on the rise of genetic changes through mutations over evolutionary time. Mutations are the key to biodiversity and are responsible for the diverse beauty in the natural world.`,
       video: "https://youtu.be/1q-wlGg7ra0"
     },
@@ -48,7 +48,7 @@ export default {
       video: "https://youtu.be/BiPao1QZIiA"
     },
     {
-      title: "Searching for Rare Mutations",
+      title: "One in a million",
       text: `To study the effects of new mutations and how they introduce variation, Wittkopp uses baker’s yeast, or *Saccharomyces cerevisiae*. Fruit flies have a generation time of two weeks, but in one day, yeast can reproduce in the millions.\nThat means that in a much shorter time, researchers can track the inheritance traits over time, and search for rare mutations in individual yeast cells.`,
       video: "https://youtu.be/4L-w7MX5iiI"
     },
