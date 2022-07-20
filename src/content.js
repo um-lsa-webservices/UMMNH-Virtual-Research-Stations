@@ -92,16 +92,16 @@ export default {
   secondary: [
     {
       title: "The search for new states",
-      text: `In *experimental condensed matter physics*, scientists look for new states in materials. These new states, such as magnetism, originate from interactions at the electron level. Discovering these new magnetic properties may be the key to unlocking new technologies in computer science and faster data processing. Or, it could be a new piece in the effort to complete the puzzle of fundamental quantum physics theories.\n*Courtesy of Zhao Research Group*`,
+      text: `In *experimental condensed matter physics*, scientists look for new states in materials. These new states, such as magnetism, originate from interactions at the electron level. Discovering these new magnetic properties may be the key to unlocking new technologies in computer science and faster data processing. Or, it could be a new piece in the effort to complete the puzzle of fundamental quantum physics theories.`,
       image: {
         source: "/images/ZhaoPosterImage.jpg",
-        caption: `The Zhao lab uses optical lasers to perform experiments on different materials then creates a visual map of the materials’ unique properties.`,
-        desc: "The Zhao lab uses optical lasers to perform experiments on different materials then creates a visual map of the materials’ unique properties.",
+        caption: `The Zhao lab uses optical lasers to perform experiments on different materials then creates a visual map of the materials’ unique properties.\n*Courtesy of Zhao Research Group*`,
+        desc: "The Zhao lab uses optical lasers to perform experiments on different materials then creates a visual map of the materials’ unique properties.\n*Courtesy of Zhao Research Group*",
       }
     },
     {
       title: "Visualizing material properties",
-      text: `Researchers in condensed matter physics study ordering phenomena, or the way electrons interact and line up to give rise to new and exciting properties. Condensed matter physicists often use materials not typically found in nature. Material samples are grown in the lab for scientists to measure and observe.\nSome samples are so small that they are no longer three dimensional but rather exist in two dimensions and can be as thin as an atom.\nAfter prepping the samples, researchers measure their properties with laser light. A laser is shone onto the sample material through a set of specialized optics.\nMeasuring the light that is reflected off of the materials, scientists create a visual map of existence and distribution of ordered states, resolve the mystery of their origin, and guide the design of future experiments and applications.`
+      text: `Researchers in condensed matter physics study *ordering phenomena*, or the way electrons interact and line up to give rise to new and exciting properties. Condensed matter physicists often use materials not typically found in nature. Material samples are grown in the lab for scientists to measure and observe.\nSome samples are so small that they are no longer three dimensional but rather exist in two dimensions and can be as thin as an atom.\nAfter prepping the samples, researchers measure their properties with laser light. A laser is shone onto the sample material through a set of specialized optics.\nMeasuring the light that is reflected off of the materials, scientists create a visual map of existence and distribution of ordered states, resolve the mystery of their origin, and guide the design of future experiments and applications.`
     }
   ],
   // Additional credit if needed
