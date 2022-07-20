@@ -29,7 +29,7 @@ export default {
   main: [
     {
       title: "Supporting research in the field",
-      text: `Resident Biologist Adam Schubel describes how UMBS supports visiting researchers. The Biostation’s facilities include a stream lab, a chemistry lab and two flux towers that measures Co2 exchange with the atmosphere.`,
+      text: `Resident biologist Adam Schubel describes how the U-M Biological Station supports visiting researchers. The Biostation’s facilities include a stream lab, a chemistry lab and two flux towers that measures Co2 exchange with the atmosphere.`,
       video: "https://youtu.be/sXqLkgK5O8Q"
     },
     {
