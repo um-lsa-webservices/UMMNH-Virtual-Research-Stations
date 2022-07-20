@@ -86,20 +86,20 @@ export default {
   secondary: [
     {
       title: "Born from the ashes",
-      text: `The University of Michigan Biological Station (UMBS) is located on the ancestral land of the Burt Lake Band of Ottawa and Chippewa Indians. After the Band’s forced relocation, logging and fires destroyed the landscape. UMBS was established in 1909 on land acquired from lumber barons. For decades, student and faculty researchers studied first-hand how land exploitation impacted the environment. The 10,000-acre property has since been reforested via natural processes.\n*Top image courtesy of U-M Biological Station*\n*Bottom image courtesy of John Den Uyl*`,
+      text: `The University of Michigan Biological Station (UMBS) is located on the ancestral land of the Burt Lake Band of Ottawa and Chippewa Indians. After the Band’s forced relocation, logging and fires destroyed the landscape. UMBS was established in 1909 on land acquired from lumber barons. For decades, student and faculty researchers studied first-hand how land exploitation impacted the environment. The 10,000-acre property has since been reforested via natural processes.`,
       image: {
         source: "/images/UMBSPosterImage1.jpg",
-        caption: `Top image: After Michigan's logging era, much of the northern part of the state looked like a wasteland.\nBottom image: The view above the rain garden toward Douglas Lake at UMBS.`,
-        desc: "Top image: After Michigan's logging era, much of the northern part of the state looked like a wasteland.\nBottom image: The view above the rain garden toward Douglas Lake at UMBS."
+        caption: `Top image: After Michigan's logging era, much of the northern part of the state looked like a wasteland. *Courtesy of U-M Biological Station*\nBottom image: The view above the rain garden toward Douglas Lake at UMBS.*Bottom image courtesy of John Den Uyl*`,
+        desc: "Top image: After Michigan's logging era, much of the northern part of the state looked like a wasteland. *Courtesy of U-M Biological Station*\nBottom image: The view above the rain garden toward Douglas Lake at UMBS.*Bottom image courtesy of John Den Uyl*"
       }
     },
     {
       title: "Community and collaborations",
-      text: `Today, UMBS students engage in and learn about biology and environmental science by studying directly in the field and by working alongside experts. UMBS is a highly interactive community where students, faculty and researchers come together to learn about the natural world, to examine environmental change, and to seek solutions to the critical environmental challenges of our times—climate change and invasive species foremost among them.\n*Courtesy of U-M Biological Station*`,
+      text: `Today, UMBS students engage in and learn about biology and environmental science by studying directly in the field and by working alongside experts. UMBS is a highly interactive community where students, faculty and researchers come together to learn about the natural world, to examine environmental change, and to seek solutions to the critical environmental challenges of our times—climate change and invasive species foremost among them.`,
       image: {
         source: "/images/Logging.jpeg",
-        caption: `Students participate in a field lab at Sturgeon Bay in 2019.`,
-        desc: "Students participate in a field lab at Sturgeon Bay in 2019."
+        caption: `Students participate in a field lab at Sturgeon Bay in 2019.\n*Courtesy of U-M Biological Station*`,
+        desc: "Students participate in a field lab at Sturgeon Bay in 2019.\n*Courtesy of U-M Biological Station*"
       }      
     }
   ],
