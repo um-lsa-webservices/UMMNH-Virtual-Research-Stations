@@ -50,22 +50,22 @@ export default {
     },
     {
       title: "Samples",
-      text: `The materials Zhao’s lab studies are not typically found in nature. They can be 3D samples that are very small or 2D samples that are as thin as a single atom. After preparation, the samples are ready for laser light measurements, their properties with laser light, or see how they react in extreme low temperatures.\nYoungjun Ahn is a postdoctoral research fellow and Hongchao Xie is a postdoctoral scholar at the University of Michigan.`,
+      text: `The materials Zhao’s lab studies are not typically found in nature. They can be 3D samples that are very small or 2D samples that are as thin as a single atom. After preparation, the samples are ready for measurement of their properties with laser light, or to see how they react in extreme low temperatures.\nYoungjun Ahn is a postdoctoral research fellow and Hongchao Xie is a postdoctoral scholar at the University of Michigan.`,
       video: "https://youtu.be/CYkn5jcsgE8"
     },
     {
       title: "Data collection",
-      text: `Zhao’s lab uses a technique called rotational anisotropy-second harmonic generation, or RA-SHG. Laser light is directed onto the sample material and its properties are then observed by measuring light (the SHG signal) that reflects off of it.\nXiaoyu Guo is a graduate student in the Zhao Research Group.`,
+      text: `Zhao’s lab uses a technique called *rotational anisotropy-second harmonic generation*, or RA-SHG. Laser light is directed onto the sample material and its properties are then observed by measuring light (the SHG signal) that reflects off of it.\nXiaoyu Guo is a graduate student in the Zhao Research Group.`,
       video: "https://youtu.be/Zo2Z1_b4lhI"
     },
     {
       title: "Measurements through time",
-      text: `Time-resolved RA-SHG (Tr-RA-SHG) uses multiple laser pulses to make measurements through time. Using this technique, the Zhao Research Group can see how a sample’s properties may change through time.\nRachel Owen is a graduate student in the Department of Physics at University of Michigan.`,
+      text: `*Time-resolved RA-SHG (Tr-RA-SHG)* uses multiple laser pulses to make measurements through time. Using this technique, the Zhao Research Group can see how a sample’s properties may change through time.\nRachel Owen is a graduate student in the Department of Physics at University of Michigan.`,
       video: "https://youtu.be/uS7cPiYqMA0"
     },
     {
       title: "A new discovery",
-      text: `The Zhao Research Group was the first to observe a ferro-rotational moment. This phenomenon had never been directly observed before, but had been theorized in quantum physics. The result was achieved using RA-SHG techniques with the material RbFe(MoO4)2 in extremely low temperatures.\nElizabeth Drueke is a graduate student in the Department of Physics at University of Michigan.`,
+      text: `The Zhao Research Group was the first to observe a *ferro-rotational moment*. This phenomenon had never been directly observed before, but had been theorized in quantum physics. The result was achieved using RA-SHG techniques with the material RbFe(MoO4)2 in extremely low temperatures.\nElizabeth Drueke is a graduate student in the Department of Physics at University of Michigan.`,
       video: "https://youtu.be/_HFYKet2dqo"
     },
   ],
