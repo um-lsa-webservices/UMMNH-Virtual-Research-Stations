@@ -28,7 +28,7 @@ export default {
   // },
   main: [
     {
-      title: "Supporting research in the field",
+      title: "Welcome to UMBS",
       text: `Resident biologist Adam Schubel describes how the U-M Biological Station supports visiting researchers. The Biostation’s facilities include a stream lab, a chemistry lab and two flux towers that measures Co2 exchange with the atmosphere.`,
       video: "https://youtu.be/sXqLkgK5O8Q"
     },
@@ -43,22 +43,22 @@ export default {
       video: "https://youtu.be/IJBaFKIZ74s"
     },
     {
-      title: "The outdoor classroom",
+      title: "Learning outdoors",
       text: `U-M alum and UMBS faculty member Amy Schrank, PhD, is an Adjunct Assistant Professor at the University of Minnesota. At UMBS, she uses the unique setting to expose students of all types to field work in her specialty, the biology and ecology of fishes.`,
       video: "https://youtu.be/bMXK6G8PeKM"
     },
     {
-      title: "Studying hydrology in a one-of-a-kind lab",
+      title: "The forest laboratory",
       text: `Phoebe Aron, PhD is a postdoctoral fellow at the University of Michigan. Focusing on hydrology and climate sciences, her research at UMBS looks at the role of forest structure in water regulation.`,
       video: "https://youtu.be/m9n8uoGsO_o"
     },
     {
-      title: "The year I stopped being afraid",
+      title: "Student life",
       text: `Every year, UMBS welcomes U-M students to its campus for summer courses. For many, the hands on learning in the field can be a life changing experience.`,
       video: "https://youtu.be/j5ynuf_BC74"
     },
     {
-      title: "Conversations to collaborations",
+      title: "Collaborations",
       text: `The living-learning community at UMBS makes it easy to connect with other students and researchers. Sometimes, the best science collaborations begin from a simple conversation.`,
       video: "https://youtu.be/rdr223ATSWE"
     },
