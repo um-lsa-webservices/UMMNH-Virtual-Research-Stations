@@ -28,8 +28,8 @@ export default {
   // },
   main: [
     {
-      title: "Meet Lacey Knowles",
-      text: `Lacey Knowles, PhD, is Robert B. Payne Collegiate Professor of Ecology and Evolutionary Biology at University of Michigan. She is also a curator at the Museum of Zoology.`,
+      title: "Meet L. Lacey Knowles",
+      text: `L. Lacey Knowles, PhD, is Robert B. Payne Collegiate Professor of Ecology and Evolutionary Biology at the University of Michigan. She is also a curator at the Museum of Zoology.`,
       video: "https://youtu.be/Rbne2Br6rQ8"
     },
     {
@@ -54,7 +54,7 @@ export default {
     },
     {
       title: "Be one with the grasshopper",
-      text: `Because grasshoppers don’t fly, catching them out in the field requires thinking like one.\nBeing in the field lets Knowles’s team members see the environment of the specimens they are collecting firsthand. Along with the specimen, they collect climate, georeference, and habitat data.`,
+      text: `Because these grasshoppers don’t fly, catching them out in the field requires thinking like one.\nBeing in the field lets Knowles’s team members see the environment of the specimens they are collecting firsthand. Along with the specimen, they collect climate, georeference, and habitat data.`,
       video: "https://youtu.be/UzLDx3pAC2k"
     },
   ],
