@@ -54,7 +54,7 @@ export default {
     },
     {
       title: "Student life",
-      text: `Every year, UMBS welcomes U-M students to its campus for summer courses. For many, the hands on learning in the field can be a life changing experience.`,
+      text: `Every year, UMBS welcomes U-M students to its campus for summer courses. For many, the hands on learning in the field can be a life changing experience.\nKarie Slavik is Associate Director, UMBS and Jumaah Saadeh is Student Coordinator, UMBS.`,
       video: "https://youtu.be/j5ynuf_BC74"
     },
     {
