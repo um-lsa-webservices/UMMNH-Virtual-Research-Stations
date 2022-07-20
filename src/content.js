@@ -29,7 +29,7 @@ export default {
   main: [
     {
       title: "Meet Trisha Wittkopp",
-      text: `Trisha Wittkopp, PhD, is Arthur F. Thurnau Professor, Sally L. Allen Collegiate Professor, and Chair of Ecology and Evolutionary Biology at University of Michigan.`,
+      text: `Trisha Wittkopp, PhD, is Arthur F. Thurnau Professor, Sally L. Allen Collegiate Professor of Ecology and Evolutionary Biology and Molecular, Cellular, and Developmental Biology at the University of Michigan.`,
       video: "https://youtu.be/pZ6rNF87Vgk"
     },
     {
