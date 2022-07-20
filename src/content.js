@@ -104,12 +104,11 @@ export default {
     {
       title: "Drying out the Amazon Rainforest",
       text: `In the early 2000s a massive drought hit the Amazon basin. Researchers expected the forest canopy to shut down—but they found the opposite. While some species did pull back to conserve water, others got greener even through the driest period.
-      Biological diversity makes ecosystems resilient. Individual species react to conditions differently, and researchers are beginning to understand how these distinct behaviors affect the function of the ecosystem as a whole. By understanding the diversity of plants in the rainforest canopy, researchers can predict how the Amazon rainforest will transform in the future as the climate changes.
-      *Courtesy of David Riaño Cortés*`,
+      Biological diversity makes ecosystems resilient. Individual species react to conditions differently, and researchers are beginning to understand how these distinct behaviors affect the function of the ecosystem as a whole. By understanding the diversity of plants in the rainforest canopy, researchers can predict how the Amazon rainforest will transform in the future as the climate changes.`,
       image: {
         source: "/images/david-riano-cortes-975771.jpeg",
-        caption: `Image of a foggy rainforest trail.`,
-        desc: `Image of a foggy rainforest trail.`
+        caption: `The Amazon rainforest is one of the most diverse ecosystems on earth, with over 6,000 tree species.\n *Courtesy of David Riaño Cortés*`,
+        desc: `The Amazon rainforest is one of the most diverse ecosystems on earth, with over 6,000 tree species.\n *Courtesy of David Riaño Cortés*`
       }
     }
   ],
