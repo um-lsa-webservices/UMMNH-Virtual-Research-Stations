@@ -29,7 +29,7 @@ export default {
   main: [
     {
       title: "Meet Jesse Capecelatro",
-      text: `Jesse Capecelatro, PhD, Assistant Professor of Mechanical Engineering and Aerospace Engineering, University of Michigan.`,
+      text: `Jesse Capecelatro, PhD, Assistant Professor of Mechanical Engineering and Aerospace Engineering, at the University of Michigan.`,
       video: "https://youtu.be/oTjkbPoOqB0"
     },
     {
@@ -38,7 +38,7 @@ export default {
       video: "https://youtu.be/suJsK36KRJY"
     },
     {
-      title: "Fluidized bed reactor simulation",
+      title: "Visualizing turbulence",
       text: `One area of Capecelatro’s work is in the physics of turbulent multiphase flows inside fluidized bed reactors. These flow simulations at the particle scale allow innovations in renewable energy technologies to go from lab to industrial use.`,
       video: "https://youtu.be/VzUF_tePRX8"
     },
@@ -48,8 +48,8 @@ export default {
       video: "https://youtu.be/vFcpWObpPhg"
     },
     {
-      title: "Plume Surface Interaction",
-      text: `Since 2016, Capecelatro has been working with NASA to develop predictive simulation capabilities of plume surface interactions. These multiphase flow simulations will help design spacecraft that may one day be able to take off from another planet, allowing for return missions.\nIt’s one step forward towards being able to have reliable predictive simulation on planets such as Mars.`,
+      title: "Working with NASA",
+      text: `Since 2016, Capecelatro has been working with NASA to develop predictive simulation capabilities of plume-surface interactions. These multiphase flow simulations will help design spacecraft that may one day be able to take off from another planet, allowing for return missions.\nIt’s one step forward towards being able to have reliable predictive simulation for planets such as Mars.`,
       video: "https://youtu.be/uJzMSw-aS9c"
     }
   ],
