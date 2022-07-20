@@ -48,12 +48,12 @@ export default {
       video: "https://youtu.be/9dGNWlPzDDs"
     },
     {
-      title: "New techniques, old questions",
+      title: "Confidence",
       text: `Working with a team of experts, Knowles uses new genomic techniques and computational tools to answer old questions. Combined with morphology and traditional taxonomical analysis, these different avenues of research mean Knowles can be confident about the conclusions she draws.`,
       video: "https://youtu.be/hKZnXCHOcNo"
     },
     {
-      title: "Be one with the grasshopper",
+      title: "Field work",
       text: `Because these grasshoppers don’t fly, catching them out in the field requires thinking like one.\nBeing in the field lets Knowles’s team members see the environment of the specimens they are collecting firsthand. Along with the specimen, they collect climate, georeference, and habitat data.`,
       video: "https://youtu.be/UzLDx3pAC2k"
     },
