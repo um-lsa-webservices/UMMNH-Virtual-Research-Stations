@@ -5,7 +5,7 @@
 export default {
   // Page Content
   page: {
-    title: "Lacey Knowles: The Origin of New Species"
+    title: "L. Lacey Knowles: The Origin of New Species"
   },
 
   // Main Content
