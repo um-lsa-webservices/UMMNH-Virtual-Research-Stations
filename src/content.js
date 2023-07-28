@@ -5,7 +5,7 @@
 export default {
   // Page Content
   page: {
-    title: "Monica Dus: Sugar Central"
+    title: "David Kwabi: Building better batteries"
   },
 
   // Main Content
