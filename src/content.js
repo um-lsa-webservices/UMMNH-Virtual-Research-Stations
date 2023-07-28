@@ -5,7 +5,7 @@
 export default {
   // Page Content
   page: {
-    title: "Monica Dus: Sugar Central"
+    title: "Selena Smith: Using fossils to find roots"
   },
 
   // Main Content
