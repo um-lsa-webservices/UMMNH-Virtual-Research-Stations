@@ -28,7 +28,7 @@ export default {
   // },
   main: [
     {
-      title: "Meet Monica Dus",
+      title: "Meet Monica Dus!",
       text: `Monica Dus, PhD, is Assistant Professor of Molecular, Cellular, and Developmental Biology at the University of Michigan.`,
       video: "https://www.youtube.com/watch?v=jIiyGsNSmlM"
     },
